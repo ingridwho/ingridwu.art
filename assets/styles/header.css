@@ -1,0 +1,33 @@
+
+.topnav {
+    overflow: hidden;
+    max-width:1200px;
+    margin-left:auto;
+    margin-right:auto;
+    font-size:20px;
+    text-align:right;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    display: inline-block;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a.active{
+    color: darkcyan;
+}
+
+.topnav a:hover{
+    opacity:70%;
+}
+
+/* When the screen is less than 600 pixels wide, center top */
+@media screen and (max-width: 600px) {
+    .topnav{
+        text-align:center;
+    }
+}
