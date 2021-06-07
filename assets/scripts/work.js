@@ -20,5 +20,11 @@ var text='';
 for(var i=0;i<work.length;i++){
     text+='<figure>\r\n\t\t\t<a href=\''+work[i].url+'\'>\r\n\t\t\t\t<img src=\''+work[i].url+'\/'+work[i].cover+'\' alt=\''+work[i].url+'\'>\r\n\t\t\t\t<div class=\'caption\'>'+work[i].caption+'<\/div>\r\n\t\t\t<\/a>\r\n\t\t<\/figure>'
 }
+if(work.length%3!=0){
+    for(var i=0;i<3-work.length%3;i++){
+        text+='<figure><\/figure>';
+    }
+}
+
 
 document.getElementsByClassName('container')[0].innerHTML = text;

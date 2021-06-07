@@ -13,7 +13,7 @@ figure {
     margin: 15px;
     width:30%;
     min-width:300px;
-    flex-grow:1;
+    
     /*background-color:#CDCECA;*/
 }
 .caption{
