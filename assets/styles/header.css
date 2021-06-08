@@ -1,8 +1,5 @@
 .topnav {
-    overflow: hidden;
-    max-width:1200px;
-    margin-left:auto;
-    margin-right:auto;
+    width:100%;
     font-size:20px;
     text-align:right;
 }
@@ -11,13 +8,17 @@
 .topnav a {
     display: inline-block;
     text-align: center;
-    padding: 14px 20px;
+    margin: 15px 20px;
     text-decoration: none;
     font-size: 17px;
 }
 
 .topnav a.active{
     color: darkcyan;
+}
+
+.topnav .name{
+    color:#E95524;
 }
 
 .topnav a:hover{

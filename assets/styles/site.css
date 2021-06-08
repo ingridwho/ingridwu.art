@@ -1,6 +1,10 @@
 body{
     background-color:white;
     font-family: Tahoma, Geneva, sans-serif;
+    padding: 0 5%;
+}
+html{
+    scroll-behavior: smooth;
 }
 #fader {
     position: fixed;
@@ -32,4 +36,10 @@ body{
 #fader.fade-in {
     opacity: 1;
     animation-name: fade-in;
+}
+
+@media screen and (max-width: 800px) {
+    body{
+        padding: 0 5px;
+    }
 }
