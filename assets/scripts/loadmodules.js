@@ -35,7 +35,7 @@ function handleDescription(input){
     temptext+='<div class=\'description\'>'+input+'</div>'
 }
 function handleWidePhoto(filename){
-    temptext+='<div class=\'image\'><img src=\''+filename+'\'></img></div>'
+    temptext+='<div class=\'image\'><img data-src=\''+filename+'\' class=\'lazyload\'></img></div>'
 }
 function handlePhotogrid(filenames){
     temptext+='<div class=\'photogrid\'>';
@@ -44,7 +44,7 @@ function handlePhotogrid(filenames){
     filenames.forEach(filename => {
         //math for width??
         var ratio = filename.x / filename.y;
-        temptext+='<div style=\'flex: '+ratio+'\'><img src=\''+filename.image+'\'></img></div>'
+        temptext+='<div class="teaser lazyload" style=\'flex: '+ratio+'\'><img data-src=\''+filename.image+'\' class=\'lazyload\'></img></div>'
     });
 
     temptext+='</div>';
