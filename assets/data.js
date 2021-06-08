@@ -1,64 +1,3 @@
-var work = [
-    {
-        url: 'evolve',
-        caption: 'evolve',
-        cover: 'cover.gif'
-    },
-    {
-        url: 'schmidts',
-        caption: 'schmidts',
-        cover: 'cover.gif'
-    },
-    {
-        url: 'the-purple-pamflet',
-        caption: 'the purple pamflet',
-        cover: 'cover.gif'
-    },
-    {
-        url: 'modern-love',
-        caption: 'modern love',
-        cover: 'cover.png'
-    },
-    {
-        url: 'calibold',
-        caption: 'puma women',
-        cover: 'cover.gif'
-    }
-]
-
-/*var play = [
-    {
-        url: 'oodles',
-        caption: 'oodles',
-        cover: 'cover.jpg'
-    },
-    {
-        url: 'animation',
-        caption: 'animated short films',
-        cover: 'cover.gif'
-    },
-    {
-        url: 'chindogu',
-        caption: 'chindōgu',
-        cover: 'cover.gif'
-    },
-    {
-        url: 'mothers-day',
-        caption: 'mother\'s day',
-        cover: 'cover.jpg'
-    },
-    {
-        url: 'mild-villains',
-        caption: 'mild villains',
-        cover: 'cover.jpg'
-    },
-    {
-        url: 'trends-of-2018',
-        caption: 'trends of 2018',
-        cover: 'cover.jpg'
-    }
-]*/
-
 var calibold = [
     {
         module: 'title',
@@ -101,7 +40,7 @@ var schmidts = [
     {
         module: 'widephoto',
         filename: '2.png'//,
-        //inlinestyles: 'max-width:200px;outline-style:solid;margin: 0 auto;'
+        //inline: 'max-width:200px;outline-style:solid;margin: 0 auto;'
     },
     {
         module: 'widephoto',
@@ -167,7 +106,7 @@ var purplepamflet = [
                 y: '513'
             }
         ]//,
-        //inlinestyles: 'max-width:1200px;margin:0 auto'
+        //inline: 'max-width:1200px;margin:0 auto'
     },
     {
         module: 'photogrid',
@@ -183,7 +122,7 @@ var purplepamflet = [
                 y: '512'
             }
         ]//,
-        //inlinestyles: 'max-width:1200px;margin:0 auto'
+        //inline: 'max-width:1200px;margin:0 auto'
     },
     {
         module: 'back'
@@ -221,7 +160,7 @@ var modernlove = [
                 y: '1621'
             }
         ]//,
-        //inlinestyles: 'max-width:1200px;margin:0 auto'
+        //inline: 'max-width:1200px;margin:0 auto'
     },
     {
         module: 'description',
@@ -253,7 +192,7 @@ var modernlove = [
                 y: '1920'
             }
         ],
-        inlinestyles: 'max-width:700px;margin:0 auto'
+        inline: 'style="max-width:700px;margin:0 auto"'
     },
     {
         module: 'title',
@@ -296,11 +235,41 @@ var modernlove = [
     }
 ]
 
-var about = [
+var work = [
+    {
+        module: 'container',
+        data: [
+            {
+                url: 'evolve',
+                caption: 'evolve',
+                img: '/evolve/cover.gif'
+            },
+            {
+                url: 'schmidts',
+                caption: 'schmidts',
+                img: '/schmidts/cover.gif'
+            },
+            {
+                url: 'the-purple-pamflet',
+                caption: 'the purple pamflet',
+                img: '/the-purple-pamflet/cover.gif'
+            },
+            {
+                url: 'modern-love',
+                caption: 'modern love',
+                img: '/modern-love/cover.png'
+            },
+            {
+                url: 'calibold',
+                caption: 'puma women',
+                img: '/calibold/cover.gif'
+            }
+        ]
+    },
     {
         module: 'description',
         text: '<br><br>Hi! My name is Ingrid (she\/hers) and I\'m an art director and multidisciplinary designer who\u00A0wants to collaborate with others to tell stories that evoke action through emotion.<br><br>I graduated class of 2020\u00A0from the University of Florida\u00A0with a B.S in Advertising and minor in Digital Arts and Sciences.<br><br>Currently an\u00A0Associate Designer at Big Spaceship\u00A0\uD83D\uDE80<br><br>I often post illustrations, animations and comics on my Insta so please check em\' out!\u00A0<a href=\'https://www.instagram.com/ingridraws/\' target=\'blank\'>@ingridraws<\/a><br><br>',
-        inlinestyles: 'max-width:1200px;font-size:20px'
+        inline: 'id=\'about\' style="max-width:1200px;font-size:20px"'
     }
 ]
 

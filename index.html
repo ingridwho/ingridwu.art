@@ -12,6 +12,18 @@
 	<link rel='stylesheet' type='text/css' href='/assets/styles/container.css'>
 	<link rel='stylesheet' type='text/css' href='/assets/styles/modules.css'>
 	<script src='/assets/scripts/fade.js'></script>
+	<script src='/assets/scripts/lazysizes.min.js' async=""></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script>
+		//TEMPORARY FIX FOR THE DYNAMIC SCROLLING
+		setTimeout( function() {
+			if (window.location.href.indexOf("#about") > -1) {
+				$('html, body').animate({
+				'scrollTop': $('#about').offset().top
+				}, 5);
+			}	
+		}, 50);
+	</script>
 </head>
 
 <body>
@@ -19,14 +31,11 @@
 	<script>fadeInPage();</script>
 
 	<div id='header' active='work'></div>
-
-	<div class='container' page='work'></div>
 	
-	<div class='modules' id='about'></div>
+	<div class='modules' id='work'></div>
 	
 	<script src='/assets/scripts/header.js'></script>
 	<script src='/assets/data.js'></script>
-	<script src='/assets/scripts/loadpages.js'></script>
 	<script src='/assets/scripts/loadmodules.js'></script>
 </body>
 

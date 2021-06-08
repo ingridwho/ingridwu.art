@@ -12,7 +12,7 @@ generate this:
     <a href="/play">play</a>
 </div>
 */
-var text ="<div class=\'topnav\'>\r\n\t\t\t<a href=\"/\" class=\"name\">ingrid wu<\/a>\r\n\t\t\t<a href=\"\\#about\">info<\/a>\r\n\t\t\t<a href=\"/\">work<\/a>\r\n\t\t\t<a href=\'/play\'>play<\/a>\r\n\t\t<\/div>";
+var text ="<div class=\'topnav\'>\r\n\t\t\t<a href=\"/\" class=\"name\">ingrid wu<\/a>\r\n\t\t\t<a href=\"/#about\">info<\/a>\r\n\t\t\t<a href=\"/\">work<\/a>\r\n\t\t\t<a href=\'/play\'>play<\/a>\r\n\t\t<\/div>";
 
 //add active class
 /*
