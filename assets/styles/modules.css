@@ -7,19 +7,22 @@
 .modules .title{
     text-align: left;
     font-size: 2em;
-    margin-top: 0.67em;
-    margin-bottom: 0.67em;
     margin-left: 15px;
     margin-right: 15px;
+    margin-top: 1%;
     font-weight: bold;
 }
 .modules .description{
     max-width:100%;
-    margin: 0 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 1%;
 }
 .modules .image{
     max-width:100%;
-    margin: 0 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 1%;
 }
 .modules .image img{
     width:100%;
@@ -34,7 +37,9 @@
 
 .modules .photogrid{
     max-width: 100%;
-    margin: 0 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 1%;
     display: flex;
 }
 .modules .photogrid img{
@@ -49,7 +54,7 @@
 .modules .back{
     text-align: left;
     font-size: 2em;
-    margin-top: 0.67em;
+    margin-top: 2em;
     margin-bottom: 0.67em;
     margin-left: 15px;
     margin-right: 15px;

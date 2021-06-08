@@ -142,13 +142,11 @@ var purplepamflet = [
     },
     {
         module: 'title',
-        text: 'Queer Vouchers',
-        inlinestyles: 'padding-left:50px'
+        text: 'Queer Vouchers'
     },
     {
         module: 'description',
-        text: 'To further the process of the witch hunt in the 1950\'s, the University Police Department offered $10 (~$94 in 2020) to anyone who had information of names of potential queer individuals.<br><br>To spread word of the Johns Committee and Purple Pamflet Instagram, vouchers asking to exchange an individual who identified as LGBTQA+ for $10 would be passed out to create traffic towards the Instagram. Voucher designs would represent a specific community within the spectrum using pride flag colors.',
-        inlinestyles: 'padding-left:50px;max-width:800px'
+        text: 'To further the process of the witch hunt in the 1950\'s, the University Police Department offered $10 (~$94 in 2020) to anyone who had information of names of potential queer individuals.<br><br>To spread word of the Johns Committee and Purple Pamflet Instagram, vouchers asking to exchange an individual who identified as LGBTQA+ for $10 would be passed out to create traffic towards the Instagram. Voucher designs would represent a specific community within the spectrum using pride flag colors.'
     },
     {
         module: 'photogrid',
@@ -296,7 +294,7 @@ var modernlove = [
 var about = [
     {
         module: 'description',
-        text: '<br><br><br><br>Hi! My name is Ingrid (she\/hers) and I\'m an art director and multidisciplinary designer who\u00A0wants to collaborate with others to tell stories that evoke action through emotion.<br><br>I graduated class of 2020\u00A0from the University of Florida\u00A0with a B.S in Advertising and minor in Digital Arts and Sciences.<br><br>Currently an\u00A0Associate Designer at Big Spaceship\u00A0\uD83D\uDE80<br><br>I often post illustrations, animations and comics on my Insta so please check em\' out!\u00A0<a href=\'https://www.instagram.com/ingridraws/\' target=\'blank\'>@ingridraws<\/a><br><br>',
+        text: '<br><br>Hi! My name is Ingrid (she\/hers) and I\'m an art director and multidisciplinary designer who\u00A0wants to collaborate with others to tell stories that evoke action through emotion.<br><br>I graduated class of 2020\u00A0from the University of Florida\u00A0with a B.S in Advertising and minor in Digital Arts and Sciences.<br><br>Currently an\u00A0Associate Designer at Big Spaceship\u00A0\uD83D\uDE80<br><br>I often post illustrations, animations and comics on my Insta so please check em\' out!\u00A0<a href=\'https://www.instagram.com/ingridraws/\' target=\'blank\'>@ingridraws<\/a><br><br>',
         inlinestyles: 'max-width:1200px;font-size:20px'
     }
 ]
