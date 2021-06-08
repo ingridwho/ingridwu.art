@@ -1,5 +1,10 @@
 var work = [
     {
+        url: 'evolve',
+        caption: 'evolve',
+        cover: 'cover.gif'
+    },
+    {
         url: 'schmidts',
         caption: 'schmidts',
         cover: 'cover.gif'
@@ -535,5 +540,99 @@ var play = [
                 y: '1000'
             }
         ]
+    }
+]
+
+var evolve = [
+    {
+        module: 'title',
+        text: 'Evolve - There’s Outside In Here'
+    },
+    {
+        module: 'description',
+        text:'The outdoors have a way of bringing out the good stuff. Something as simple as a walk can give us a breath of fresh air and fresh perspective, too. <br><br>For Evolve\u2019s rebrand, we were able to develop a full-scale, relaunch campaign including a new social playbook across all social media platforms.<br><br>Graphic\/Motion Design: Me<br>AD\/CW: Liz Agans & Kyle Kimball<br>Design Director: Warren Teo<br>Creative Director: Kristen Kriisa<br>Group Creative Director: Steve Street'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '01_VanillaBeanTetra_1x1.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '02_BerryMedleyTetra_1x1.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '03_CafeMochaTetra_1x1.gif',
+                x: '1',
+                y: '1'
+            }
+        ]
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '04_BerryMedley_HDPE_1x1.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '05_DoubleChocolate_HDPE_1x1.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '06_VanillaBean_HDPE_1x1.gif',
+                x: '1',
+                y: '1'
+            }
+        ]
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '07_032821_IG_TheresOutsideInHere_AlmondCherry.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '08_Theres Vanilla.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '09_Theres Mocha_1.gif',
+                x: '1',
+                y: '1'
+            }
+        ]
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '10_Tastes Like Feels Like_Berry_2.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '11_Tastes Like Feels Like_Vanilla_2.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '12_Tastes Like Feels Like_Chocolate.gif',
+                x: '1',
+                y: '1'
+            }
+        ]
+    },
+    {
+        module: 'back'
     }
 ]
