@@ -384,7 +384,7 @@ var play = [
         module: 'responsivegallery',
         id: 'chindogu',
         targetHeight: 700,
-        offset: 16,
+        offset: 15,
         filenames: [
             {
                 image: 'chin1.jpg',
@@ -501,11 +501,11 @@ var play = [
                 x: '1000',
                 y: '1000'
             },
-            {
+            /*{
                 image: 'oodle5.jpg',
                 x: '1000',
                 y: '1000'
-            },
+            },*/
             {
                 image: 'oodle6.gif',
                 x: '1008',
