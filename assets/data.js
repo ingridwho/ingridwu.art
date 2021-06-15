@@ -283,7 +283,10 @@ var play = [
         text: 'A collection of illustrations.<br>Hover to find individual descriptions and inspirations for each illustration piece.<br>For up-to-date illustrations and animations, follow @ingridraws on Instagran!'
     },
     {
-        module: 'photogrid',
+        module: 'responsivegallery',
+        id: 'oodles',
+        targetHeight: 430,
+        offset: 0,
         filenames: [
             {
                 image: 'oodle1.jpg',
@@ -304,12 +307,7 @@ var play = [
                 image: 'oodle4.jpg',
                 x: '1000',
                 y: '1000'
-            }
-        ]
-    },
-    {
-        module: 'photogrid',
-        filenames: [
+            },
             {
                 image: 'oodle5.jpg',
                 x: '1000',
@@ -329,12 +327,7 @@ var play = [
                 image: 'oodle8.jpg',
                 x: '1000',
                 y: '1000'
-            }
-        ]
-    },
-    {
-        module: 'photogrid',
-        filenames: [
+            },
             {
                 image: 'oodle9.jpg',
                 x: '1000',
@@ -354,12 +347,7 @@ var play = [
                 image: 'oodle12.jpg',
                 x: '1000',
                 y: '1000'
-            }
-        ]
-    },
-    {
-        module: 'photogrid',
-        filenames: [
+            },
             {
                 image: 'oodle13.jpg',
                 x: '1000',
@@ -391,7 +379,10 @@ var play = [
         text: 'Inktober is a challenge to ink or draw something every day for the month of October, a challenge I have put myself up to for the last four years. In 2018, I decided to do it a bit differently by creating a series - Chindōgu.<br><br>Chindōgu (珍道具) is the Japanese art form of inventing useless, but ingenious, inventions such an umbrella that doubles as a tie, or have an active toddler wear a onesie that also doubles as a mop.<br><br>For this Inktober, I decided to do my interpretation of my own useless, but mostly useful, inventions.<br><br>Illustration<br>2018'
     },
     {
-        module: 'photogrid',
+        module: 'responsivegallery',
+        id: 'chindogu',
+        targetHeight: 700,
+        offset: 16,
         filenames: [
             {
                 image: 'chin1.jpg',
@@ -407,12 +398,7 @@ var play = [
                 image: 'chin3.jpg',
                 x: '1000',
                 y: '1000'
-            }
-        ]
-    },
-    {
-        module: 'photogrid',
-        filenames: [
+            },
             {
                 image: 'chin4.jpg',
                 x: '1000',
@@ -427,12 +413,7 @@ var play = [
                 image: 'chin6.jpg',
                 x: '1000',
                 y: '1000'
-            }
-        ]
-    },
-    {
-        module: 'photogrid',
-        filenames: [
+            },
             {
                 image: 'chin7.jpg',
                 x: '1000',
@@ -447,12 +428,7 @@ var play = [
                 image: 'chin9.jpg',
                 x: '1000',
                 y: '1000'
-            }
-        ]
-    },
-    {
-        module: 'photogrid',
-        filenames: [
+            },
             {
                 image: 'chin10.jpg',
                 x: '1000',
@@ -467,12 +443,7 @@ var play = [
                 image: 'chin12.jpg',
                 x: '1000',
                 y: '1000'
-            }
-        ]
-    },
-    {
-        module: 'photogrid',
-        filenames: [
+            },
             {
                 image: 'chin13.jpg',
                 x: '1000',
@@ -487,12 +458,182 @@ var play = [
                 image: 'chin15.jpg',
                 x: '1000',
                 y: '1000'
+            },
+            {
+                image: 'chin16.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'chin17.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'chin18.jpg',
+                x: '1000',
+                y: '1000'
             }
         ]
     },
     {
-        module: 'photogrid',
-        filenames: [
+        module: 'lightbox',
+        filenames: [{},
+            {
+                image: 'oodle1.jpg',
+                x: '1920',
+                y: '1080'
+            },
+            {
+                image: 'oodle2.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'oodle3.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'oodle4.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'oodle5.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'oodle6.gif',
+                x: '1008',
+                y: '1000'
+            },
+            {
+                image: 'oodle7.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'oodle8.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'oodle9.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'oodle10.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'oodle11.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'oodle12.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'oodle13.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'oodle14.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'oodle15.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'oodle16.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'chin1.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'chin2.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'chin3.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'chin4.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'chin5.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'chin6.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'chin7.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'chin8.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'chin9.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'chin10.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'chin11.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'chin12.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'chin13.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'chin14.jpg',
+                x: '1000',
+                y: '1000'
+            },
+            {
+                image: 'chin15.jpg',
+                x: '1000',
+                y: '1000'
+            },
             {
                 image: 'chin16.jpg',
                 x: '1000',

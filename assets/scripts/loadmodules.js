@@ -2,6 +2,7 @@
 var data = window[document.getElementsByClassName("modules")[0].getAttribute("id")];
 var text='';
 var temptext='';
+var async = [];
 
 //add to string using a temp string based on module name
 data.forEach(element => {
@@ -22,6 +23,12 @@ data.forEach(element => {
     }
     if(element.module=='container'){
         handleContainer(element.data);
+    }
+    if(element.module=='responsivegallery'){
+        handleResponsiveGallery(element.id, element.offset, element.filenames, element.targetHeight);
+    }
+    if(element.module=='lightbox'){
+        handleLightbox(element.filenames);
     }
     if (typeof element.inline !== 'undefined') {
         handleInline(element.inline);
@@ -98,5 +105,45 @@ function handleInline(inline){
     temptext = temptext.slice(0, firstoccurance)+" "+inline+" "+temptext.slice(firstoccurance);
 }
 
+function handleResponsiveGallery(id, offset, filenames, targetHeight){
+    temptext+='<div id=\''+id+'\' class=\'wrapper\'></div>'
+    async.push ({
+        type: 'responsivegrid',
+        id: id,
+        offset: offset,
+        targetHeight: targetHeight,
+        filenames: filenames
+    });
+}
+
+function handleLightbox(filenames){
+    temptext+='<div id=\'myModal\' class=\'modal\'>'
+    temptext+=notLightbox(filenames);
+    temptext+='</div>';
+}
+
 //output to container
 document.getElementsByClassName('modules')[0].innerHTML = text;
+
+//async run after doc load
+function handleAsync(){
+    
+    Array.from(async).forEach(element => {
+        if(element.type == 'responsivegrid'){
+            notGrid(document.getElementById(element.id),element.filenames,element.targetHeight,element.offset);
+        }
+    });
+}
+
+handleAsync();
+
+//JQUERY
+$(window).on('resize', function(){
+    handleAsync();
+});
+$('body').on('click', function(event) {
+    closeModal();
+});
+$('div.wrapper, div.mySlides').on('click', function(event) {
+    event.stopPropagation();
+});
