@@ -285,7 +285,7 @@ var play = [
     {
         module: 'responsivegallery',
         id: 'oodles',
-        targetHeight: 430,
+        targetHeight: 500,
         offset: 0,
         filenames: [
             {
@@ -308,11 +308,13 @@ var play = [
                 x: '1000',
                 y: '1000'
             },
+            /*
             {
                 image: 'oodle5.jpg',
                 x: '1000',
                 y: '1000'
             },
+            */
             {
                 image: 'oodle6.gif',
                 x: '1008',
