@@ -136,7 +136,7 @@ var modernlove = [
     },
     {
         module: 'description',
-        text: 'The New York Times’ Modern Love column chronicles the difficulties of love, loss and redemption. Today, a swipe can make or break a connection— but, somehow, many of the characteristics that define modern romance remain universal.<br><br>Copy: <a href =\'https://www.linkedin.com/in/denise-akerman/\' target=\'blank\'>Denise Ackerman</a>'
+        text: 'The New York Times’ Modern Love column chronicles the difficulties of love, loss and redemption. Today, a swipe can make or break a connection— but, somehow, many of the characteristics that define modern romance remain universal.<br><br>Copy: <a href =\'https://www.linkedin.com/in/denise-akerman/\' target=\'blank\'>Denise Akerman</a>'
     },
     {
         module: 'widephoto',
@@ -280,7 +280,7 @@ var play = [
     },
     {
         module: 'description',
-        text: 'A collection of illustrations.<br>For up-to-date illustrations and animations, follow @ingridraws on Instagram!'
+        text: 'A collection of illustrations.<br>For up-to-date illustrations and animations, follow <a href=\'https://www.instagram.com/ingridraws/\' target=\'blank\'>@ingridraws<\/a> on Instagram!'
     },
     {
         module: 'responsivegallery',

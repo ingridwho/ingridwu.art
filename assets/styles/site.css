@@ -1,6 +1,8 @@
+@font-face { font-family: SharpGrotesExpBook; src: url('/assets/fonts/SharpGroteskExpBook.otf'); }
+@font-face { font-family: SharpGrotesExpSemiBold; src: url('/assets/fonts/SharpGroteskExpSemiBold.otf'); }
 body{
     background-color:white;
-    font-family: Tahoma, Geneva, sans-serif;
+    font-family: SharpGrotesExpBook;
     padding: 0 5%;
 }
 html{
