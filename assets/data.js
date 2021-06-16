@@ -280,7 +280,7 @@ var play = [
     },
     {
         module: 'description',
-        text: 'A collection of illustrations.<br>Hover to find individual descriptions and inspirations for each illustration piece.<br>For up-to-date illustrations and animations, follow @ingridraws on Instagran!'
+        text: 'A collection of illustrations.<br>For up-to-date illustrations and animations, follow @ingridraws on Instagram!'
     },
     {
         module: 'responsivegallery',
