@@ -202,3 +202,10 @@
     text-decoration: none;
     cursor: pointer;
 }
+
+/* embed */
+.modules .embed{
+	margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 1%;
+}

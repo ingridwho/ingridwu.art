@@ -30,6 +30,9 @@ data.forEach(element => {
     if(element.module=='lightbox'){
         handleLightbox(element.filenames);
     }
+    if(element.module=='videoembed'){
+        handleVideoEmbed(element.html);
+    }
     if (typeof element.inline !== 'undefined') {
         handleInline(element.inline);
     }
@@ -120,6 +123,10 @@ function handleLightbox(filenames){
     temptext+='<div id=\'myModal\' class=\'modal\'>'
     temptext+=notLightbox(filenames);
     temptext+='</div>';
+}
+
+function handleVideoEmbed(html){
+    temptext+='<div class=\'embed\'>'+html+'</div>';
 }
 
 //output to container
