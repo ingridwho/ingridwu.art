@@ -5,7 +5,7 @@ var calibold = [
     },
     {
         module: 'description',
-        text: 'To promote PUMA\'s Cali Bold sneaker launch, We Are Social led the production of a mural in Williamsburg, Brooklyn, illustrated by Brittany Byrd, to remind women to #BeBold. A story of the process and end product was created for the @PUMAWomens Instagram account.<br><br>Graphic and Motion Design'
+        text: 'To promote PUMA\'s Cali Bold sneaker launch, We Are Social led the production of a mural in Williamsburg, Brooklyn, illustrated by Brittany Byrd, to remind women to #BeBold. A story of the process and end product was created for the @PUMAWomens Instagram account.<br><br>Graphic/Motion Design<br>Art Director: Vu Tran'
     },
     {
         module: 'widephoto',
@@ -70,7 +70,7 @@ var purplepamflet = [
     },
     {
         module: 'description',
-        text: 'Strategist: <a href =\'https://www.graceubben.com/\' target=\'blank\'>Grace Ubben</a>'
+        text: 'Art Direction<br>Strategist: <a href =\'https://www.graceubben.com/\' target=\'blank\'>Grace Ubben</a>'
     },
     {
         module: 'widephoto',
@@ -136,7 +136,7 @@ var modernlove = [
     },
     {
         module: 'description',
-        text: 'The New York Times’ Modern Love column chronicles the difficulties of love, loss and redemption. Today, a swipe can make or break a connection— but, somehow, many of the characteristics that define modern romance remain universal.<br><br>Copy: <a href =\'https://www.linkedin.com/in/denise-akerman/\' target=\'blank\'>Denise Akerman</a>'
+        text: 'The New York Times’ Modern Love column chronicles the difficulties of love, loss and redemption. Today, a swipe can make or break a connection— but, somehow, many of the characteristics that define modern romance remain universal.<br><br>Art Direction<br>Copywriter: <a href =\'https://www.linkedin.com/in/denise-akerman/\' target=\'blank\'>Denise Akerman</a>'
     },
     {
         module: 'widephoto',
@@ -240,6 +240,11 @@ var work = [
         module: 'container',
         data: [
             {
+                url: 'starbucks',
+                caption: 'starbucks earth month',
+                img: '/starbucks/cover.gif'
+            },
+            {
                 url: 'evolve',
                 caption: 'evolve',
                 img: '/evolve/cover.gif'
@@ -263,7 +268,7 @@ var work = [
                 url: 'calibold',
                 caption: 'puma women',
                 img: '/calibold/cover.gif'
-            }
+            },
         ]
     },
     {
@@ -685,7 +690,7 @@ var evolve = [
     },
     {
         module: 'description',
-        text:'The outdoors have a way of bringing out the good stuff. Something as simple as a walk can give us a breath of fresh air and fresh perspective, too. <br><br>For Evolve\u2019s rebrand, we were able to develop a full-scale, relaunch campaign including a new social playbook across all social media platforms.<br><br>Graphic\/Motion Design: Me<br>AD\/CW: Liz Agans & Kyle Kimball<br>Design Director: Warren Teo<br>Creative Director: Kristen Kriisa<br>Group Creative Director: Steve Street'
+        text:'The outdoors have a way of bringing out the good stuff. Something as simple as a walk can give us a breath of fresh air and fresh perspective, too. <br><br>For Evolve\u2019s rebrand, we were able to develop a full-scale, relaunch campaign including a new social playbook across all social media platforms.<br><br>Graphic\/Motion Design<br>AD\/CW: Liz Agans & Kyle Kimball<br>Design Director: Warren Teo<br>Creative Director: Kristen Kriisa<br>Group Creative Director: Steve Street'
     },
     {
         module: 'photogrid',
@@ -766,6 +771,101 @@ var evolve = [
                 y: '1'
             }
         ]
+    },
+    {
+        module: 'back'
+    }
+]
+
+var starbucks = [
+    {
+        module: 'title',
+        text: 'Starbucks Earth Month 2021'
+    },
+    {
+        module: 'description',
+        text:'For Earth Month 2021, Starbucks wanted to create space to talk — about where they are today, and where they see themselves in another 50 years. Through this social campaign , Starbucks was able to break open and break down their sustainability practices to show Gen Z fans exactly how much positive impact is being made by doing the hard work for what’s right. <br><br>Graphic\/Motion Design<br>AD\/CW: Connie Zhou & Austin Powe<br>Creative Director: Christine Gratton<br>'
+    },
+    {
+        module: 'videoembed',
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/GZzZ2QGzkXs?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
+        module: 'videoembed',
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/3Pn4UTaXNGw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
+        module: 'title',
+        text: 'Instagram Story'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '1.gif',
+                x: '400',
+                y: '225'
+            },
+            {
+                image: '2.gif',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: '3.gif',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: '4.gif',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: '5.gif',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: '6.gif',
+                x: '800',
+                y: '450'
+            },
+        ]//,
+        //inline: 'max-width:225px;margin:0 auto'
+    },
+    {
+        module: 'title',
+        text: 'Instagram In Feed'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '7.gif',
+                x: '980',
+                y: '1920',
+            },
+            {
+                image: '8.gif',
+                x: '980',
+                y: '1920'
+            }
+        ],
+        inline: 'style="max-width:700px;margin:0 auto"' 
+        
+    },
+    {
+        module: 'videoembed',
+        html: ''
+    },
+    {
+        module: 'title',
+        text: 'TikTok - Q&A with Chief Sustainability Officer Michael Kobori'
+    },
+    {
+        module: 'videoembed',
+        html: '<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@starbucks/video/6953993997333351686" data-video-id="6953993997333351686" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@starbucks" href="https://www.tiktok.com/@starbucks">@starbucks</a> <p>You asked us about sustainability, our Chief Sustainability Officer, Michael Kobori, responds to your questions. ♻️ <a title="starbucks" target="_blank" href="https://www.tiktok.com/tag/starbucks">##Starbucks</a> <a title="sustainability" target="_blank" href="https://www.tiktok.com/tag/sustainability">##Sustainability</a></p> <a target="_blank" title="♬ original sound - Starbucks" href="https://www.tiktok.com/music/original-sound-6953993895957007110">♬ original sound - Starbucks</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>'
     },
     {
         module: 'back'
