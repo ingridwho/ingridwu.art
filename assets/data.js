@@ -856,10 +856,6 @@ var starbucks = [
         
     },
     {
-        module: 'videoembed',
-        html: ''
-    },
-    {
         module: 'title',
         text: 'TikTok - Q&A with Chief Sustainability Officer Michael Kobori'
     },
