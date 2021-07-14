@@ -155,6 +155,10 @@ var modernlove = [
         text: 'The New York Times’ Modern Love column chronicles the difficulties of love, loss and redemption. Today, a swipe can make or break a connection— but, somehow, many of the characteristics that define modern romance remain universal.<br><br>Art Direction<br>Copywriter: <a href =\'https://www.linkedin.com/in/denise-akerman/\' target=\'blank\'>Denise Akerman</a>'
     },
     {
+        module: 'title',
+        text: 'OUT OF HOME'
+    },
+    {
         module: 'widephoto',
         filename: '1.png'
     },
@@ -180,7 +184,7 @@ var modernlove = [
     },
     {
         module: 'description',
-        text: 'Taxis in Europe often feature advertising on the backside of their passenger seats, which we’ll replicate in taxis all over New York City.'
+        text: '<br><br>Taxis in Europe often feature advertising on the backside of their passenger seats, which we’ll replicate in taxis all over New York City.'
     },
     {
         module: 'widephoto',
@@ -800,7 +804,11 @@ var starbucks = [
     },
     {
         module: 'description',
-        text:'For Earth Month 2021, Starbucks wanted to create space to talk — about where they are today, and where they see themselves in another 50 years. Through this social campaign , Starbucks was able to break open and break down their sustainability practices to show Gen Z fans exactly how much positive impact is being made by doing the hard work for what’s right. <br><br>Graphic\/Motion Design<br>AD\/CW: Connie Zhou & Austin Powe<br>Creative Director: Christine Gratton<br>'
+        text:'For Earth Month 2021, Starbucks wanted to create space to talk — about where they are today, and where they see themselves in another 50 years. Through this social campaign, Starbucks was able to break open and break down their sustainability practices to show Gen Z fans exactly how much positive impact is being made by doing the hard work for what’s right. <br><br>Graphic\/Motion Design<br>AD\/CW: Connie Zhou & Austin Powe<br>Creative Director: Christine Gratton<br>'
+    },
+    {
+        module: 'title',
+        text: 'OLV'
     },
     {
         module: 'videoembed',
@@ -870,6 +878,10 @@ var starbucks = [
         ],
         inline: 'style="max-width:700px;margin:0 auto"' 
         
+    },
+    {
+        module: 'videoembed',
+        html: ''
     },
     {
         module: 'title',
