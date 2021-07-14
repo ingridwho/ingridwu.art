@@ -73,16 +73,8 @@ var purplepamflet = [
         text: 'Art Direction<br>Strategist: <a href =\'https://www.graceubben.com/\' target=\'blank\'>Grace Ubben</a>'
     },
     {
-        module: 'widephoto',
-        filename: '1.png'
-    },
-    {
-        module: 'widephoto',
-        filename: '2.png'
-    },
-    {
-        module: 'widephoto',
-        filename: '3.png'
+        module: 'description',
+        text:'In the 1950s, the Lavender Scare was the panic and fear of homosexuality aligned with McCarthyism. The State of Florida created the Johns Committee in 1956 which operated as a witch hunt for queer individuals within Florida state colleges. Hundreds of students and faculty were expelled from campus, ruining lives and scarring the history of Florida’s college system. <br><br>The original Purple Pamphlet was a booklet created by the Johns Committee as anti-queer propaganda. It received backlash from the public as government-funded pornography and was immediately shut down, along with the Johns Committee. <br><br>Purple Pamflet (yes, with an F) will shed light on the dark history of Florida\'s university system and educate about the Lavender Scare by reinventing traditional advocacy zines and pamphlets in the digital space.'
     },
     {
         module: 'title',
@@ -123,6 +115,30 @@ var purplepamflet = [
             }
         ]//,
         //inline: 'max-width:1200px;margin:0 auto'
+    },
+    {
+        module: 'title',
+        text: '@PurplePamflet'
+    },
+    {
+        module: 'description',
+        text: 'Through the Instagram platform, illustrations and comics will detail the history of the Lavender Scare and also share personal narratives and quotes from those affected.<br><br> An Instagram story series, "The Gay B C\'s" will educate viewers on queer terminiology and definitions in contrast to the original Purple Pamphlet\'s slander and propaganda.<br><br><br><br>'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '8.png',
+                x: '980',
+                y: '1920'
+            },
+            {
+                image: '9.gif',
+                x: '980',
+                y: '1920'
+            }
+        ],
+        inline: 'style="max-width:700px;margin:0 auto"'
     },
     {
         module: 'back'
@@ -273,7 +289,7 @@ var work = [
     },
     {
         module: 'description',
-        text: '<br><br>Hi! My name is Ingrid (she\/hers) and I\'m an art director and multidisciplinary designer who\u00A0wants to collaborate with others to tell stories that evoke action through emotion.<br><br>I graduated class of 2020\u00A0from the University of Florida\u00A0with a B.S in Advertising and minor in Digital Arts and Sciences.<br><br>Currently an\u00A0Associate Designer at Big Spaceship\u00A0\uD83D\uDE80<br><br>I often post illustrations, animations and comics on my Insta so please check em\' out!\u00A0<a href=\'https://www.instagram.com/ingridraws/\' target=\'blank\'>@ingridraws<\/a><br><br>',
+        text: '<br><br>Hi! My name is Ingrid (she\/hers) and I\'m an art director and multidisciplinary designer who\u00A0wants to tell stories that evoke action through empathy.<br><br>I graduated class of 2020\u00A0from the University of Florida\u00A0with a B.S in Advertising and minor in Digital Arts and Sciences.<br><br>Currently an\u00A0Associate Art Director at Big Spaceship\u00A0\uD83D\uDE80<br><br>I often post illustrations, animations and comics on my Insta so please check em\' out!\u00A0<a href=\'https://www.instagram.com/ingridraws/\' target=\'blank\'>@ingridraws<\/a><br><br>',
         inline: 'id=\'about\' style="max-width:1200px;font-size:20px"'
     }
 ]
