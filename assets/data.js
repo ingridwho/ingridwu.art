@@ -293,7 +293,7 @@ var work = [
     },
     {
         module: 'description',
-        text: '<br><br>Hi! My name is Ingrid (she\/hers) and I\'m an art director and multidisciplinary designer who\u00A0wants to tell stories that evoke action through empathy.<br><br>I graduated class of 2020\u00A0from the University of Florida\u00A0with a B.S in Advertising and minor in Digital Arts and Sciences.<br><br>Currently an\u00A0Associate Art Director at Big Spaceship\u00A0\uD83D\uDE80<br><br>I often post illustrations, animations and comics on my Insta so please check em\' out!\u00A0<a href=\'https://www.instagram.com/ingridraws/\' target=\'blank\'>@ingridraws<\/a><br><br>',
+        text: '<br><br>Hi! My name is Ingrid (she\/hers) and I\'m an art director and multidisciplinary designer who\u00A0aims to tell stories with empathy.<br><br>I graduated class of 2020\u00A0from the University of Florida\u00A0with a B.S in Advertising and minor in Digital Arts and Sciences.<br><br>Currently an\u00A0Associate Art Director at Big Spaceship\u00A0\uD83D\uDE80<br><br>For illustrations and comics\u00A0<a href=\'https://www.instagram.com/ingridraws/\' target=\'blank\'>@ingridraws<\/a><br><br><a href=\"mailto:me@ingridwu.art\">me@ingridwu.art<\/a><br><br><a href=\'https://www.linkedin.com/in/ingrid-wu-715099107/\' target=\'blank\'>LinkedIn<\/a><br><br>',
         inline: 'id=\'about\' style="max-width:1200px;font-size:20px"'
     }
 ]
