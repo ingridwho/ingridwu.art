@@ -293,7 +293,7 @@ var work = [
     },
     {
         module: 'description',
-        text: '<br><br>Hi! My name is Ingrid (she\/hers) and I\'m an art director and multidisciplinary designer who\u00A0aims to tell stories with empathy.<br><br>I graduated class of 2020\u00A0from the University of Florida\u00A0with a B.S in Advertising and minor in Digital Arts and Sciences.<br><br>Currently an\u00A0Associate Art Director at Big Spaceship\u00A0\uD83D\uDE80<br><br>For illustrations and comics\u00A0<a href=\'https://www.instagram.com/ingridraws/\' target=\'blank\'>@ingridraws<\/a><br><br><a href=\"mailto:me@ingridwu.art\">me@ingridwu.art<\/a><br><br><a href=\'https://www.linkedin.com/in/ingrid-wu-715099107/\' target=\'blank\'>LinkedIn<\/a><br><br>',
+        text: '<br><br>Hi! My name is Ingrid (she\/hers) and I\'m an art director and multidisciplinary designer who\u00A0aims to tell stories with empathy.<br><br>B.S. Advertising, minor in Digital Arts and Sciences | University of Florida 2020<br><br>Currently an\u00A0Associate Art Director at Big Spaceship\u00A0\uD83D\uDE80<br><br>For illustrations and comics\u00A0<a href=\'https://www.instagram.com/ingridraws/\' target=\'blank\'>@ingridraws<\/a><br><br><a href=\"mailto:me@ingridwu.art\">me@ingridwu.art<\/a><br><br><a href=\'https://www.linkedin.com/in/ingrid-wu-715099107/\' target=\'blank\'>LinkedIn<\/a><br><br>',
         inline: 'id=\'about\' style="max-width:1200px;font-size:20px"'
     }
 ]
@@ -710,7 +710,11 @@ var evolve = [
     },
     {
         module: 'description',
-        text:'The outdoors have a way of bringing out the good stuff. Something as simple as a walk can give us a breath of fresh air and fresh perspective, too. <br><br>For Evolve\u2019s rebrand, we were able to develop a full-scale, relaunch campaign including a new social playbook across all social media platforms.<br><br>Graphic\/Motion Design<br>AD\/CW: Liz Agans & Kyle Kimball<br>Design Director: Warren Teo<br>Creative Director: Kristen Kriisa<br>Group Creative Director: Steve Street'
+        text:'The outdoors have a way of bringing out the good stuff. Something as simple as a walk can give us a breath of fresh air and fresh perspective, too. <br><br>For Evolve\u2019s rebrand, we were able to develop a full-scale, relaunch campaign including new social creative across all social media platforms.<br><br><b><a href=\'https://www.instagram.com/drinkevolve/\' target=\'blank\'>Drink Evolve on Instagram<\/a></b><br><br>Graphic\/Motion Design<br>AD\/CW: Liz Agans & Kyle Kimball<br>Design Director: Warren Teo<br>Creative Director: Kristen Kriisa<br>Group Creative Director: Steve Street'
+    },
+    {
+        module: 'title',
+        text: 'PAID & ORGANIC SOCIAL'
     },
     {
         module: 'photogrid',
@@ -793,6 +797,50 @@ var evolve = [
         ]
     },
     {
+        module: 'title',
+        text: 'SUMMER 2021 CONTENT SHOOT'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '13_Cheers To Out Here 1x1.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '14_Paddle Out_1x1.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '15_RollerSkate.png',
+                x: '1',
+                y: '1'
+            }
+        ]
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '16_Early Riser.jpg',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '17_Biking Trail.jpg',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '18_TakeYourShoesOff.png',
+                x: '1',
+                y: '1'
+            }
+        ]
+    },
+    {
         module: 'back'
     }
 ]
@@ -813,6 +861,10 @@ var starbucks = [
     {
         module: 'videoembed',
         html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/GZzZ2QGzkXs?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
+        module: 'videoembed',
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/mWuWQqgpm4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
     },
     {
         module: 'videoembed',
@@ -890,6 +942,14 @@ var starbucks = [
     {
         module: 'videoembed',
         html: '<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@starbucks/video/6953993997333351686" data-video-id="6953993997333351686" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@starbucks" href="https://www.tiktok.com/@starbucks">@starbucks</a> <p>You asked us about sustainability, our Chief Sustainability Officer, Michael Kobori, responds to your questions. ♻️ <a title="starbucks" target="_blank" href="https://www.tiktok.com/tag/starbucks">##Starbucks</a> <a title="sustainability" target="_blank" href="https://www.tiktok.com/tag/sustainability">##Sustainability</a></p> <a target="_blank" title="♬ original sound - Starbucks" href="https://www.tiktok.com/music/original-sound-6953993895957007110">♬ original sound - Starbucks</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>'
+    },
+    {
+        module: 'title',
+        text: 'TikTok - Resusable Cup Program'
+    },
+    {
+        module: 'videoembed',
+        html: '<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@starbucks/video/6950271257652776197" data-video-id="6950271257652776197" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@starbucks" href="https://www.tiktok.com/@starbucks">@starbucks</a> <p>Psst, we’re testing a new idea to reduce cup waste 👀<a title="starbucks" target="_blank" href="https://www.tiktok.com/tag/starbucks">##Starbucks</a> <a title="sustainability" target="_blank" href="https://www.tiktok.com/tag/sustainability">##Sustainability</a></p> <a target="_blank" title="♬ original sound - Starbucks" href="https://www.tiktok.com/music/original-sound-6950286009154620165">♬ original sound - Starbucks</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>'
     },
     {
         module: 'back'
