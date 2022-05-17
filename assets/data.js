@@ -293,7 +293,7 @@ var work = [
     },
     {
         module: 'description',
-        text: '<br><br>Hi! My name is Ingrid (she\/hers) and I\'m an art director and multidisciplinary designer who\u00A0aims to tell stories with empathy.<br><br>B.S. Advertising, minor in Digital Arts and Sciences | University of Florida 2020<br><br>Currently an\u00A0Art Director at Big Spaceship\u00A0\uD83D\uDE80 based in Brooklyn, NY<br><br>For illustrations and comics\u00A0<a href=\'https://www.instagram.com/ingridraws/\' target=\'blank\'>@ingridraws<\/a><br><br><a href=\"mailto:me@ingridwu.art\">me@ingridwu.art<\/a><br><br><a href=\'https://www.linkedin.com/in/ingrid-wu-715099107/\' target=\'blank\'>LinkedIn<\/a><br><br>',
+        text: '<br><br>Hi! My name is Ingrid (she\/hers) and I\'m an art director and multidisciplinary designer who\u00A0aims to tell stories with empathy.<br><br>Currently an\u00A0Art Director at Big Spaceship\u00A0\uD83D\uDE80 based in Brooklyn, NY<br><br>Creating space at <a href=\'https://www.instagram.com/sparks_magazine//\' target=\'blank\'>Sparks Magazine<\/a><br><br><br>For illustrations and comics\u00A0<a href=\'https://www.instagram.com/ingridraws/\' target=\'blank\'>@ingridraws<\/a><br><br><a href=\"mailto:me@ingridwu.art\">me@ingridwu.art<\/a><br><br><a href=\'https://www.linkedin.com/in/ingrid-wu-715099107/\' target=\'blank\'>LinkedIn<\/a><br><br>',
         inline: 'id=\'about\' style="max-width:1200px;font-size:20px"'
     }
 ]
