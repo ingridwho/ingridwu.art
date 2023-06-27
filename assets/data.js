@@ -710,12 +710,9 @@ var evolve = [
     },
     {
         module: 'description',
-        text:'The outdoors have a way of bringing out the good stuff. Something as simple as a walk can give us a breath of fresh air and fresh perspective, too. <br><br>For Evolve\u2019s rebrand, we were able to develop a full-scale, relaunch campaign including new social creative across all social media platforms.<br><br><b><a href=\'https://www.instagram.com/drinkevolve/\' target=\'blank\'>Drink Evolve on Instagram<\/a></b><br><br>Graphic\/Motion Design<br>AD\/CW: Liz Agans & Kyle Kimball<br>Design Director: Warren Teo<br>Creative Director: Kristen Kriisa<br>Group Creative Director: Steve Street'
+        text:'outdoors have a way of bringing out the good stuff. Something as simple as a walk can give us a breath of fresh air and fresh perspective, too. <br><br>For Evolve\u2019s rebrand, we were able to develop a full-scale, relaunch campaign including new social creative across all social media platforms.<br><br><b><a href=\'https://www.instagram.com/drinkevolve/\' target=\'blank\'>Drink Evolve on Instagram<\/a></b><br><br>Graphic\/Motion Design<br>AD\/CW: Liz Agans & Kyle Kimball<br>Design Director: Warren Teo<br>Creative Director: Kristen Kriisa<br>Group Creative Director: Steve Street'
     },
-    {
-        module: 'title',
-        text: 'PAID & ORGANIC SOCIAL'
-    },
+   
     {
         module: 'photogrid',
         filenames: [
@@ -796,10 +793,7 @@ var evolve = [
             }
         ]
     },
-    {
-        module: 'title',
-        text: 'SUMMER 2021 CONTENT SHOOT'
-    },
+
     {
         module: 'photogrid',
         filenames: [
