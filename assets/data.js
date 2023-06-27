@@ -834,6 +834,21 @@ var evolve = [
             }
         ]
     },
+     {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '19_DC Boot.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '20_hammock.gif',
+                x: '1',
+                y: '1'
+            },
+        ]
+    },
     {
         module: 'back'
     }
