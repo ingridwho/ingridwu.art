@@ -5,7 +5,7 @@ var calibold = [
     },
     {
         module: 'description',
-        text: 'promote PUMA\'s Cali Bold sneaker launch, We Are Social led the production of a mural in Williamsburg, Brooklyn, illustrated by Brittany Byrd, to remind women to #BeBold. A story of the process and end product was created for the @PUMAWomens Instagram account.<br><br>Graphic/Motion Design<br>Art Director: Vu Tran'
+        text: 'To promote PUMA\'s Cali Bold sneaker launch, We Are Social led the production of a mural in Williamsburg, Brooklyn, illustrated by Brittany Byrd, to remind women to #BeBold. A story of the process and end product was created for the @PUMAWomens Instagram account.<br><br>Graphic/Motion Design<br>Art Director: Vu Tran'
     },
     {
         module: 'widephoto',
