@@ -757,7 +757,7 @@ var evolve = [
                 y: '1'
             },
             {
-                image: '21_table lay.gif',
+                image: '21_table_lay.gif',
                 x: '1',
                 y: '1'
             }
@@ -787,17 +787,17 @@ var evolve = [
         module: 'photogrid',
         filenames: [
             {
-                image: '22_ wave back.jpg',
+                image: '22_ wave_back.jpg',
                 x: '1',
                 y: '1'
             },
             {
-                image: '23_wind in your hair.jpg',
+                image: '23_wind_in_your_hair.jpg',
                 x: '1',
                 y: '1'
             },
             {
-                image: '24_trio packs.jpg',
+                image: '24_trio_packs.jpg',
                 x: '1',
                 y: '1'
             }
@@ -1136,7 +1136,7 @@ evolve22 = [
     },
     {
         module: 'description',
-        text:'In continuation with the previous year\u2019s campaign "There\u2019s Outside In Here", we evolved it to feature humanity doing what they do best - outside.<br><br>Art Direction<br>CW: Shravya Arra<br>ACD: Liz Agans & Brandon Holliday<br>Creative Director: Kristen Kriisa<br>Executive Creative Director: Steve Street<br>'
+        text:'In continuation with the previous year\u2019s campaign "There\u2019s Outside In Here", we further conveyed the delicious flavors of nature and bottled up that outdoor feeling. In 2022, we evolved it to feature humanity doing what they do best, but outside.<br><br>Art Direction<br>CW: Shravya Arra<br>ACD: Liz Agans & Brandon Holliday<br><br>Design Director: Warren Teo<br>Creative Director: Kristen Kriisa<br>Executive Creative Director: Steve Street<br>'
     },
     {
         module: 'videoembed',
@@ -1166,7 +1166,7 @@ evolve21 = [
     },
     {
         module: 'description',
-        text:'We helped PepsiCo to launch Evolve, their plant-based ready-to-drink protein shake, that aims to get people outside through a partnership with the National Parks Foundation.<br><br>With There\u2019s Outside in Here, we wanted to convey the delicious flavors of nature, and to bottle up that outdoor feeling. To do so, we created what we called flavorscapes. We worked with The Mill to to create stunning backdrops for each flavor, inspired by the colors, lighting, textures and feeling of an outdoor environment. We also created a new website, social content, and print ads to drive discovery of pea protein, to grow our community of active wellness seekers and to spread the good word of being outside.<br><br>Design & Art Direction<br>ACD: Liz Agans & Kyle Kimball<br>Creative Director: Kristen Kriisa<br>Executive Creative Director: Steve Street'
+        text:'We helped PepsiCo to launch Evolve, their plant-based ready-to-drink protein shake, that aims to get people outside through a partnership with the National Parks Foundation.<br><br>With There\u2019s Outside in Here, we wanted to convey the delicious flavors of nature, and to bottle up that outdoor feeling. To do so, we created what we called flavorscapes. We worked with The Mill to to create stunning backdrops for each flavor, inspired by the colors, lighting, textures and feeling of an outdoor environment. We also created a new website, social content, and print ads to drive discovery of pea protein, to grow our community of active wellness seekers and to spread the good word of being outside.<br><br>Design & Art Direction<br>ACD: Liz Agans & Kyle Kimball<br>Design Director: Warren Teo<br>Creative Director: Kristen Kriisa<br>Executive Creative Director: Steve Street'
     },
     {
         module: 'title',
