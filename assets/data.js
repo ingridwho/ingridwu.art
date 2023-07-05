@@ -5,7 +5,7 @@ var calibold = [
     },
     {
         module: 'description',
-        text: 'To promote PUMA\'s Cali Bold sneaker launch, We Are Social led the production of a mural in Williamsburg, Brooklyn, illustrated by Brittany Byrd, to remind women to #BeBold. A story of the process and end product was created for the @PUMAWomens Instagram account.<br><br>Graphic/Motion Design<br>Art Director: Vu Tran'
+        text: 'To promote PUMA\'s Cali Bold sneaker launch, We Are Social led the production of a mural in Williamsburg, Brooklyn, illustrated by Brittany Byrd, to remind women to #BeBold. A story of the process and end product was created for the @PUMAWomens Instagram account.<br><br>Art Direction/Graphic/Motion Design<br>Senior Art Director: Vu Tran'
     },
     {
         module: 'widephoto',
@@ -27,7 +27,7 @@ var calibold = [
 var schmidts = [
     {
         module: 'title',
-        text: 'SCHMIDT\'S'
+        text: 'SCHMIDT\'S (spec)'
     },
     {
         module: 'description',
@@ -66,7 +66,7 @@ var schmidts = [
 var purplepamflet = [
     {
         module: 'title',
-        text: 'The Purple Pamflet'
+        text: 'The Purple Pamflet (spec)'
     },
     {
         module: 'description',
@@ -148,7 +148,7 @@ var purplepamflet = [
 var modernlove = [
     {
         module: 'title',
-        text: 'Modern Love'
+        text: 'Modern Love (spec)'
     },
     {
         module: 'description',
@@ -260,34 +260,64 @@ var work = [
         module: 'container',
         data: [
             {
-                url: 'starbucks',
-                caption: 'starbucks earth month',
-                img: '/starbucks/cover.gif'
+                url: 'robin',
+                caption: 'robin arzon x evolve',
+                img: '/robin/cover.png'
+            },
+            {
+                url: 'search-on',
+                caption: 'google search on 2022',
+                img: '/search-on/cover.gif'
+            },
+            {
+                url: 'search',
+                caption: 'google search tiktok',
+                img: '/search/cover.jpeg'
             },
             {
                 url: 'evolve',
-                caption: 'evolve',
+                caption: 'evolve social',
                 img: '/evolve/cover.gif'
             },
             {
-                url: 'schmidts',
-                caption: 'schmidts',
-                img: '/schmidts/cover.gif'
+                url: 'evolve22',
+                caption: 'evolve 2022',
+                img: '/evolve22/cover.png'
             },
             {
-                url: 'the-purple-pamflet',
-                caption: 'the purple pamflet',
-                img: '/the-purple-pamflet/cover.gif'
+                url: 'evolve21',
+                caption: 'evolve 2021',
+                img: '/evolve21/cover.gif'
             },
             {
-                url: 'modern-love',
-                caption: 'modern love',
-                img: '/modern-love/cover.png'
+                url: 'starbucks',
+                caption: 'starbucks earth month 2021',
+                img: '/starbucks/cover.gif'
             },
             {
                 url: 'calibold',
                 caption: 'puma women',
                 img: '/calibold/cover.gif'
+            },
+            {
+                url: 'outta',
+                caption: 'i\u2019m outta here (spec)',
+                img: '/outta/cover.png'
+            },
+            {
+                url: 'schmidts',
+                caption: 'schmidts (spec)',
+                img: '/schmidts/cover.gif'
+            },
+            {
+                url: 'modern-love',
+                caption: 'modern love (spec)',
+                img: '/modern-love/cover.png'
+            },
+            {
+                url: 'the-purple-pamflet' ,
+                caption: 'the purple pamflet (spec)',
+                img: '/the-purple-pamflet/cover.gif'
             },
         ]
     },
@@ -706,28 +736,28 @@ var play = [
 var evolve = [
     {
         module: 'title',
-        text: 'Evolve - There’s Outside In Here'
+        text: 'Evolve Social Content'
     },
     {
         module: 'description',
-        text:'The outdoors have a way of bringing out the good stuff. Something as simple as a walk can give us a breath of fresh air and fresh perspective, too. <br><br>For Evolve\u2019s rebrand, we were able to develop a full-scale, relaunch campaign including new social creative across all social media platforms.<br><br><b><a href=\'https://www.instagram.com/drinkevolve/\' target=\'blank\'>Drink Evolve on Instagram<\/a></b><br><br>Graphic\/Motion Design<br>AD\/CW: Liz Agans & Kyle Kimball<br>Design Director: Warren Teo<br>Creative Director: Kristen Kriisa<br>Group Creative Director: Steve Street'
+        text:'The outdoors have a way of bringing out the good stuff. Something as simple as a walk can give us a breath of fresh air and fresh perspective, too. <br><br>For Evolve\u2019s rebrand, we were able to develop social-first shoot content across Instagram and Facebook.<br><br><b><a href=\'https://www.instagram.com/drinkevolve/\' target=\'blank\'>Drink Evolve on Instagram<\/a></b><br><br>Art Direction<br>Content Strategist: Mae Copeland<br>Creative Directors: Kristen Kriisa & Liz Agans<br>Executive Creative Director: Steve Street<br><br>'
     },
    
     {
         module: 'photogrid',
         filenames: [
             {
-                image: '01_VanillaBeanTetra_1x1.gif',
+                image: '19_DC Boot.gif',
                 x: '1',
                 y: '1'
             },
             {
-                image: '02_BerryMedleyTetra_1x1.gif',
+                image: '20_hammock.gif',
                 x: '1',
                 y: '1'
             },
             {
-                image: '03_CafeMochaTetra_1x1.gif',
+                image: '21_table lay.gif',
                 x: '1',
                 y: '1'
             }
@@ -737,17 +767,17 @@ var evolve = [
         module: 'photogrid',
         filenames: [
             {
-                image: '04_BerryMedley_HDPE_1x1.gif',
+                image: '01_Sightseeing_1x1_R3.gif',
                 x: '1',
                 y: '1'
             },
             {
-                image: '05_DoubleChocolate_HDPE_1x1.gif',
+                image: '2064-10d-Winter-Kick-Off-1x1.gif',
                 x: '1',
                 y: '1'
             },
             {
-                image: '06_VanillaBean_HDPE_1x1.gif',
+                image: '2064-06b-Share-the-Evolve-Timeline1x1.gif',
                 x: '1',
                 y: '1'
             }
@@ -757,44 +787,23 @@ var evolve = [
         module: 'photogrid',
         filenames: [
             {
-                image: '07_032821_IG_TheresOutsideInHere_AlmondCherry.gif',
+                image: '22_ wave back.jpg',
                 x: '1',
                 y: '1'
             },
             {
-                image: '08_Theres Vanilla.gif',
+                image: '23_wind in your hair.jpg',
                 x: '1',
                 y: '1'
             },
             {
-                image: '09_Theres Mocha_1.gif',
+                image: '24_trio packs.jpg',
                 x: '1',
                 y: '1'
             }
         ]
     },
-    {
-        module: 'photogrid',
-        filenames: [
-            {
-                image: '10_Tastes Like Feels Like_Berry_2.gif',
-                x: '1',
-                y: '1'
-            },
-            {
-                image: '11_Tastes Like Feels Like_Vanilla_2.gif',
-                x: '1',
-                y: '1'
-            },
-            {
-                image: '12_Tastes Like Feels Like_Chocolate.gif',
-                x: '1',
-                y: '1'
-            }
-        ]
-    },
-
-    {
+      {
         module: 'photogrid',
         filenames: [
             {
@@ -834,21 +843,6 @@ var evolve = [
             }
         ]
     },
-     {
-        module: 'photogrid',
-        filenames: [
-            {
-                image: '19_DC Boot.gif',
-                x: '1',
-                y: '1'
-            },
-            {
-                image: '20_hammock.gif',
-                x: '1',
-                y: '1'
-            },
-        ]
-    },
     {
         module: 'back'
     }
@@ -861,7 +855,7 @@ var starbucks = [
     },
     {
         module: 'description',
-        text:'For Earth Month 2021, Starbucks wanted to create space to talk — about where they are today, and where they see themselves in another 50 years. Through this social campaign, Starbucks was able to break open and break down their sustainability practices to show Gen Z fans exactly how much positive impact is being made by doing the hard work for what’s right. <br><br>Graphic\/Motion Design<br>AD\/CW: Connie Zhou & Austin Powe<br>Creative Director: Christine Gratton<br>'
+        text:'For Earth Month 2021, Starbucks wanted to create space to talk — about where they are today, and where they see themselves in another 50 years. Through this social campaign, Starbucks was able to break open and break down their sustainability practices to show Gen Z fans exactly how much positive impact is being made by doing the hard work for what’s right. <br><br>Art Direction/Graphic\/Motion Design<br>Sr AD\/CW: Connie Zhou & Austin Powe<br>Creative Director: Christine Gratton<br>'
     },
     {
         module: 'title',
@@ -963,4 +957,352 @@ var starbucks = [
     {
         module: 'back'
     }
+]
+
+var robin = [
+    {
+        module: 'title',
+        text: 'Robin Arzon x Evolve'
+    },
+    {
+        module: 'description',
+        text:'With the announcement of Evolve\u2019s new partnership with Peloton\u2019s VP of Fitness Programming, Robin Arzon, we launched the "Shake It Up" social challenge — an influencer-fueled wellness challenge with a twist: try something new for your wellness, that’s totally out of your ordinary – and therefore, pushes you to evolve. We created and produced one :60 intro video, along with  two :15 teasers, and a library of social-first campaign assets.<br><br>The challenge heroed Robin getting outside of her comfort zone by being taught how to paint a mural with designer Jennet Liaw. With the launch of Robin\u2019s video, it kickstarted a chain of a diverse group of influencers taking on a wellness activity they’d never tried before – and passing the challenge along to their followers. <br><br>Art Direction<br>CW: Lauren Jones<br>Content Strategist: Mae Copeland<br>Creative Director: Kristen Kriisa<br>Executive Creative Director: Steve Street<br><br><br>'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '01_robin.gif',
+                x: '16',
+                y: '9'
+            },
+            {
+                image: '02_robin.gif',
+                x: '16',
+                y: '9'
+            },
+            {
+                image: '03_robin.gif',
+                x: '16',
+                y: '9'
+            }
+        ],
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: 'robin shoot 1.png',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: 'robin shoot 2.png',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: 'robin shoot 3.png',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: 'robin shoot 4.png',
+                x: '1',
+                y: '1'
+            }
+        ]
+    },
+    {
+        module: 'videoembed',
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/I7905OJXkE4?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
+        module: 'videoembed',
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/BC0_HfO-bXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
+        module: 'back'
+    }
+]
+
+var searchon = [
+    {
+        module: 'title',
+        text: 'Search On 2022'
+    },
+    {
+        module: 'description',
+        text:'For Google\u2019s Search On 2022 conference, we were tasked with the paid and organic social assets in promotion of the event. With provided assets from Google\u2019s brand team, we created dozens of assets for Instagram, Reddit, and Twitter.<br><br>Art Direction/Motion<br>Sr AD\/CW: Nic Allstot & Kacy Emmett<br>Sr Designer: Jackie Dempsey<br>Designer: Fiona Schneider<br>Motion Design (Post-Event): Isaiah Edwards'
+    },
+    {
+        module: 'title',
+        text: 'Pre-Event (Paid)'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '01_searchon.gif',
+                x: '16',
+                y: '9'
+            },
+            {
+                image: '02_searchon.gif',
+                x: '16',
+                y: '9'
+            },
+            {
+                image: '03_searchon.gif',
+                x: '16',
+                y: '9'
+            }
+        ],
+        inline: 'style="max-width:1920px;margin:0 auto"'
+    },
+    {
+        module: 'title',
+        text: 'Instagram Story (Organic)'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '08_searchon.gif',
+                x: '400',
+                y: '225'
+            },
+            {
+                image: '09_searchon.gif',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: '10_searchon.gif',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: '11_searchon.gif',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: '12_searchon.gif',
+                x: '800',
+                y: '450'
+            },
+        ]//,
+        //inline: 'max-width:225px;margin:0 auto'
+    },
+    {
+        module: 'title',
+        text: 'Post-Event (Paid)'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '04_searchon.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '05_searchon.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '06_searchon.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '07_searchon.gif',
+                x: '1',
+                y: '1'
+            }
+        ]
+    },
+    {
+        module: 'back'
+    }
+]
+
+evolve22 = [
+    {
+        module: 'title',
+        text: 'Evolve 2022 Campaign'
+    },
+    {
+        module: 'description',
+        text:'In continuation with the previous year\u2019s campaign "There\u2019s Outside In Here", we evolved it to feature humanity doing what they do best - outside.<br><br>Art Direction<br>CW: Shravya Arra<br>ACD: Liz Agans & Brandon Holliday<br>Creative Director: Kristen Kriisa<br>Executive Creative Director: Steve Street<br>'
+    },
+    {
+        module: 'videoembed',
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/tvqzwblXsAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
+        module: 'videoembed',
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/rwuctFsyLjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
+        module: 'videoembed',
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/GwbKRA_n47Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
+        module: 'videoembed',
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/q-iaJL04SCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
+        module: 'back'
+    }
+]
+
+evolve21 = [
+    {
+        module: 'title',
+        text: 'Evolve 2021 Campaign'
+    },
+    {
+        module: 'description',
+        text:'We helped PepsiCo to launch Evolve, their plant-based ready-to-drink protein shake, that aims to get people outside through a partnership with the National Parks Foundation.<br><br>With There\u2019s Outside in Here, we wanted to convey the delicious flavors of nature, and to bottle up that outdoor feeling. To do so, we created what we called flavorscapes. We worked with The Mill to to create stunning backdrops for each flavor, inspired by the colors, lighting, textures and feeling of an outdoor environment. We also created a new website, social content, and print ads to drive discovery of pea protein, to grow our community of active wellness seekers and to spread the good word of being outside.<br><br>Design & Art Direction<br>ACD: Liz Agans & Kyle Kimball<br>Creative Director: Kristen Kriisa<br>Executive Creative Director: Steve Street'
+    },
+    {
+        module: 'title',
+        text: 'Paid Social'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '04_BerryMedley_HDPE_1x1.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '05_DoubleChocolate_HDPE_1x1.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '06_VanillaBean_HDPE_1x1.gif',
+                x: '1',
+                y: '1'
+            }
+        ]
+    },
+    {
+        module: 'title',
+        text: 'OLV'
+    },
+    {
+        module: 'videoembed',
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/m9p1sRUZSps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
+        module: 'videoembed',
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/S8e3BZFVlqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
+        module: 'videoembed',
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/vvkovlYWDnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
+        module: 'videoembed',
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/L2G0XChPLps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
+        module: 'back'
+    }
+]
+
+var outta = [
+    {
+        module: 'title',
+        text: 'I\u2019m Outta Here (spec)'
+    },
+    {
+        module: 'description',
+        text: 'Young Shark Creative Brief 2023 entry.<br><br>In this year\u2019s brief, we are placed ten years into the future where assisted dying is legal everywhere and a DIY assisted dying kit is preparing for its entry into the pharmaceutical market. This kit called "I\u2019m Outta Here" is 100% pain-free and effective. All you need is a prescription from your doctor. Here\u2019s how we would advertise it.<br><br>Art Direction<br>Copywriter: <a href =\'https://www.linkedin.com/in/denise-akerman/\' target=\'blank\'>Denise Akerman</a>'
+    },
+    {
+        module: 'widephoto',
+        filename: '01.png'
+    },
+    {
+        module: 'widephoto',
+        filename: '02.png'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '03.png',
+                x: '1435',
+                y: '1148'
+            },
+            {
+                image: '04.png',
+                x: '1768',
+                y: '1621'
+            }
+        ]//,
+        //inline: 'max-width:1200px;margin:0 auto'
+    },
+    {
+        module: 'widephoto',
+        filename: '05.png'
+    },
+    {
+        module: 'widephoto',
+        filename: '06.png'
+    },
+    {
+        module: 'back'
+    },
+    
+]
+
+var search = [
+    {
+        module: 'title',
+        text: 'Google Search TikTok'
+    },
+    {
+        module: 'description',
+        text: 'Our team at Big Spaceship helped launch Google Search\u2019s TikTok and IG Reels presence from 2021-2022. By establishing a tone of voice and a balance of entertainment, trends, and education, we brought it to life through a mix of content creators, collaborators, and animation/graphics. <br><br>Art Direction/Motion<br>CW: Shravya Arra, Lauren Jones<br>Sr AD\/CW: Nic Allstot & Kacy Emmett<br>Sr Designer: Jackie Dempsey<br>Designer: Fiona Schneider<br>Content Creators: Casey Rieger, Shashi Mostafa'
+    },
+    {
+        module: 'videoembed',
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/gO1vPIw2Pa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
+        module: 'videoembed',
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/E7-oCzs1GtM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
+        module: 'videoembed',
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/RzjDe9nQPR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
+        module: 'videoembed',
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/k0D7c9-1T3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
+        module: 'videoembed',
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/yOYs4mwe__Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
+        module: 'videoembed',
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/Mm3yU6GV_6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
+        module: 'videoembed',
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/V_9wY61QHbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
+        module: 'back'
+    },
+    
 ]
