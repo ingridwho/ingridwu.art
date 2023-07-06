@@ -787,7 +787,7 @@ var evolve = [
         module: 'photogrid',
         filenames: [
             {
-                image: '22_ wave_back.jpg',
+                image: '22_wave_back.jpg',
                 x: '1',
                 y: '1'
             },
