@@ -1173,26 +1173,6 @@ evolve21 = [
         text: 'Paid Social'
     },
     {
-        module: 'photogrid',
-        filenames: [
-            {
-                image: '04_BerryMedley_HDPE_1x1.gif',
-                x: '1',
-                y: '1'
-            },
-            {
-                image: '05_DoubleChocolate_HDPE_1x1.gif',
-                x: '1',
-                y: '1'
-            },
-            {
-                image: '06_VanillaBean_HDPE_1x1.gif',
-                x: '1',
-                y: '1'
-            }
-        ]
-    },
-    {
         module: 'title',
         text: 'OLV'
     },
