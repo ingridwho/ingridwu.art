@@ -1162,7 +1162,7 @@ evolve22 = [
 evolve21 = [
     {
         module: 'title',
-        text: 'Evolve'
+        text: 'Evolve 2021 Campaign'
     },
     {
         module: 'description',
@@ -1170,23 +1170,31 @@ evolve21 = [
     },
     {
         module: 'title',
+        text: 'Paid Social'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '04_BerryMedley_HDPE_1x1.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '05_DoubleChocolate_HDPE_1x1.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '06_VanillaBean_HDPE_1x1.gif',
+                x: '1',
+                y: '1'
+            }
+        ]
+    },
+    {
+        module: 'title',
         text: 'OLV'
-    },
-    {
-        module: 'videoembed',
-        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/tvqzwblXsAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
-    },
-    {
-        module: 'videoembed',
-        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/rwuctFsyLjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
-    },
-    {
-        module: 'videoembed',
-        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/GwbKRA_n47Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
-    },
-    {
-        module: 'videoembed',
-        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/q-iaJL04SCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
     },
     {
         module: 'videoembed',
@@ -1199,6 +1207,10 @@ evolve21 = [
     {
         module: 'videoembed',
         html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/vvkovlYWDnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
+        module: 'videoembed',
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/L2G0XChPLps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
     },
     {
         module: 'back'
