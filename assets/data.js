@@ -962,7 +962,7 @@ var starbucks = [
 var robin = [
     {
         module: 'title',
-        text: 'Robin Arzon x Evolve'
+        text: 'Robin Arzons x Evolve'
     },
     {
         module: 'description',
