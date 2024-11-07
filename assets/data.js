@@ -260,9 +260,24 @@ var work = [
         module: 'container',
         data: [
             {
+                url: 'paze',
+                caption: 'paze',
+                img: '/paze/cover.gif'
+            },
+            {
+                url: 'starbucks',
+                caption: 'starbucks earth month',
+                img: '/starbucks/cover.gif'
+            },
+            {
                 url: 'robin',
                 caption: 'robin arzon x evolve',
                 img: '/robin/cover.png'
+            },
+            {
+                url: 'evolve21',
+                caption: 'evolve 2021',
+                img: '/evolve21/cover.gif'
             },
             {
                 url: 'search-on',
@@ -278,21 +293,6 @@ var work = [
                 url: 'evolve',
                 caption: 'evolve social',
                 img: '/evolve/cover.gif'
-            },
-            {
-                url: 'evolve22',
-                caption: 'evolve 2022',
-                img: '/evolve22/cover.png'
-            },
-            {
-                url: 'evolve21',
-                caption: 'evolve 2021',
-                img: '/evolve21/cover.gif'
-            },
-            {
-                url: 'starbucks',
-                caption: 'starbucks earth month 2021',
-                img: '/starbucks/cover.gif'
             },
             {
                 url: 'calibold',
@@ -323,7 +323,7 @@ var work = [
     },
     {
         module: 'description',
-        text: '<br><br>Hi! My name is Ingrid (she\/hers) and I\'m an art director and multidisciplinary designer who\u00A0aims to tell stories with empathy and curiosity.<br><br>Currently an\u00A0Art Director at Big Spaceship\u00A0\uD83D\uDE80 based in Brooklyn, NY<br><br><br>Creating space at <a href=\'https://www.instagram.com/sparks_magazine/\' target=\'blank\'>Sparks Magazine<\/a><br><br>For illustrations and comics\u00A0<a href=\'https://www.instagram.com/ingridraws/\' target=\'blank\'>@ingridraws<\/a> and self-deprecating bread puns <a href=\'https://www.instagram.com/self.loafing/\' target=\'blank\'>@self.loafing<\/a><br><br><a href=\"mailto:me@ingridwu.art\">me@ingridwu.art<\/a><br><br><a href=\'https://www.linkedin.com/in/ingrid-wu-715099107/\' target=\'blank\'>LinkedIn<\/a><br><br>',
+        text: '<br><br>Hi! My name is Ingrid (she\/hers) and I\'m an art director and multidisciplinary designer who\u00A0aims to tell stories with empathy and curiosity.<br><br>Currently a\u00A0Senior Art Director at <a href=\'https://www.SPCSHP.com\' target=\'blank\'>SPCSHP<\/a>\u00A0\uD83D\uDE80 based in Brooklyn, NY<br><br><br>Creating space at <a href=\'https://www.instagram.com/sparks_magazine/\' target=\'blank\'>Sparks Magazine<\/a><br><br>For illustrations and comics\u00A0<a href=\'https://www.instagram.com/ingridraws/\' target=\'blank\'>@ingridraws<\/a> and self-deprecating bread puns <a href=\'https://www.instagram.com/self.loafing/\' target=\'blank\'>@self.loafing<\/a><br><br><a href=\"mailto:me@ingridwu.art\">me@ingridwu.art<\/a><br><br><a href=\'https://www.linkedin.com/in/ingrid-wu-715099107/\' target=\'blank\'>LinkedIn<\/a><br><br>',
         inline: 'id=\'about\' style="max-width:1200px;font-size:20px"'
     }
 ]
@@ -740,7 +740,7 @@ var evolve = [
     },
     {
         module: 'description',
-        text:'The outdoors have a way of bringing out the good stuff. Something as simple as a walk can give us a breath of fresh air and fresh perspective, too. <br><br>For Evolve\u2019s rebrand, we were able to develop social-first shoot content across Instagram and Facebook.<br><br><b><a href=\'https://www.instagram.com/drinkevolve/\' target=\'blank\'>Drink Evolve on Instagram<\/a></b><br><br>Art Direction<br>Content Strategist: Mae Copeland<br>Creative Directors: Kristen Kriisa & Liz Agans<br>Executive Creative Director: Steve Street<br><br>'
+        text:'The outdoors have a way of bringing out the good stuff. Something as simple as a walk can give us a breath of fresh air and fresh perspective, too. <br><br>For Evolve\u2019s rebrand, we were able to develop social-first shoot content across Instagram and Facebook.<br><br><b><a href=\'https://www.instagram.com/drinkevolve/\' target=\'blank\'>Drink Evolve on Instagram<\/a></b><br><br>Art Direction<br>Copywriter: Shravya Arra<br>Content Strategist: Mae Copeland<br>Creative Directors: Kristen Kriisa & Liz Agans<br>Executive Creative Director: Steve Street<br>Photographer: Johan T. Anderson<br><br>'
     },
    
     {
@@ -1129,14 +1129,14 @@ var searchon = [
     }
 ]
 
-evolve22 = [
+var evolve21 = [
     {
         module: 'title',
-        text: 'Evolve 2022 Campaign'
+        text: 'Evolve 2021 Campaign'
     },
     {
         module: 'description',
-        text:'In continuation with the previous year\u2019s campaign "There\u2019s Outside In Here", we further conveyed the delicious flavors of nature and bottled up that outdoor feeling. In 2022, we evolved it to feature humanity doing what they do best, but outside.<br><br>Art Direction<br>CW: Shravya Arra<br>ACD: Liz Agans & Brandon Holliday<br><br>Design Director: Warren Teo<br>Creative Director: Kristen Kriisa<br>Executive Creative Director: Steve Street<br>'
+        text:'We helped PepsiCo to launch Evolve, their plant-based ready-to-drink protein shake, that aims to get people outside through a partnership with the National Parks Foundation.<br><br>With There\u2019s Outside in Here, we wanted to convey the delicious flavors of nature, and to bottle up that outdoor feeling. To do so, we created what we called flavorscapes. We worked with The Mill to to create stunning backdrops for each flavor, inspired by the colors, lighting, textures and feeling of an outdoor environment. We also created a new website, social content, and print ads to drive discovery of pea protein, to grow our community of active wellness seekers and to spread the good word of being outside.<br><br>Design & Art Direction<br>ACD: Liz Agans & Kyle Kimball<br>Design Director: Warren Teo<br>Creative Director: Kristen Kriisa<br>Executive Creative Director: Steve Street'
     },
     {
         module: 'videoembed',
@@ -1155,48 +1155,6 @@ evolve22 = [
         html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/q-iaJL04SCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
     },
     {
-        module: 'back'
-    }
-]
-
-evolve21 = [
-    {
-        module: 'title',
-        text: 'Evolve 2021 Campaign'
-    },
-    {
-        module: 'description',
-        text:'We helped PepsiCo to launch Evolve, their plant-based ready-to-drink protein shake, that aims to get people outside through a partnership with the National Parks Foundation.<br><br>With There\u2019s Outside in Here, we wanted to convey the delicious flavors of nature, and to bottle up that outdoor feeling. To do so, we created what we called flavorscapes. We worked with The Mill to to create stunning backdrops for each flavor, inspired by the colors, lighting, textures and feeling of an outdoor environment. We also created a new website, social content, and print ads to drive discovery of pea protein, to grow our community of active wellness seekers and to spread the good word of being outside.<br><br>Design & Art Direction<br>ACD: Liz Agans & Kyle Kimball<br>Design Director: Warren Teo<br>Creative Director: Kristen Kriisa<br>Executive Creative Director: Steve Street'
-    },
-    {
-        module: 'title',
-        text: 'Paid Social'
-    },
-    {
-        module: 'photogrid',
-        filenames: [
-            {
-                image: '04_BerryMedley_HDPE_1x1.gif',
-                x: '1',
-                y: '1'
-            },
-            {
-                image: '05_DoubleChocolate_HDPE_1x1.gif',
-                x: '1',
-                y: '1'
-            },
-            {
-                image: '06_VanillaBean_HDPE_1x1.gif',
-                x: '1',
-                y: '1'
-            }
-        ]
-    },
-    {
-        module: 'title',
-        text: 'OLV'
-    },
-    {
         module: 'videoembed',
         html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/m9p1sRUZSps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
     },
@@ -1207,10 +1165,6 @@ evolve21 = [
     {
         module: 'videoembed',
         html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/vvkovlYWDnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
-    },
-    {
-        module: 'videoembed',
-        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/L2G0XChPLps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
     },
     {
         module: 'back'
@@ -1305,4 +1259,46 @@ var search = [
         module: 'back'
     },
     
+]
+
+var paze = [
+    {
+        module: 'title',
+        text: 'Paze Launch Campaign'
+    },
+    {
+        module: 'description',
+        text:'A new online checkout service offered by some of America’s largest banks and credit unions. Created by the makers of Zelle.<br><br>Art Direction<br>Copywriter: Lauren Jones<br><br>CD: Bradford Gilmore<br>GCD: Mike Lee<br>Design Director: Cory Galster<br>Associate Design Director: Cole Spiess<br>OLV Directors: Terri Timely'
+    },
+    {
+        module: 'title',
+        text: 'OLV'
+    },
+    {
+        module: 'videoembed',
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/v9NSu4LaMAQ?si=uwmBexLPVsmveBNe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
+        module: 'videoembed',
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/vg6WpCRboIE?si=B4qz-cmpvisv6fD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
+        module: 'videoembed',
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/Tumgx8mLTXo?si=jTuoNtUO_qzJU_Ar" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
+        module: 'title',
+        text: 'Brand Photography'
+    },
+    {
+        module: 'widephoto',
+        filename: 'photo1.png'
+    },
+    {
+        module: 'widephoto',
+        filename: 'photo2.png'
+    },
+    {
+        module: 'back'
+    }
 ]
