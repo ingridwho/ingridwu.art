@@ -1272,7 +1272,7 @@ var paze = [
     },
     {
         module: 'title',
-        text: 'OLV'
+        text: 'Broadcast TVC/OLV'
     },
     {
         module: 'videoembed',
@@ -1287,8 +1287,20 @@ var paze = [
         html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/Tumgx8mLTXo?si=jTuoNtUO_qzJU_Ar" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
     },
     {
+        module: 'videoembed',
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/y4Jb7CetKk0?si=NzIa0704zrSc5S4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
+        module: 'videoembed',
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/mn8nH6hmEG4?si=FYksiz9Ll3zjb-0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
+        module: 'videoembed',
+        html: ''
+    },
+    {
         module: 'title',
-        text: 'Brand Photography'
+        text: 'Brand Design & Photography'
     },
     {
         module: 'widephoto',
