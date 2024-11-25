@@ -1268,7 +1268,7 @@ var paze = [
     },
     {
         module: 'description',
-        text:'A new online checkout service offered by some of America’s largest banks and credit unions. Created by the makers of Zelle.<br><br>Art Direction<br>Copywriter: Lauren Jones<br><br>CD: Bradford Gilmore<br>GCD: Mike Lee<br>Design Director: Cory Galster<br>Associate Design Director: Cole Spiess<br>OLV Directors: Terri Timely'
+        text:'A new online checkout service offered by some of America’s largest banks and credit unions. Created by the makers of Zelle.<br><br>Art Direction<br>Copywriter: Lauren Jones<br><br>CD: Bradford Gilmore<br>GCD: Mike Lee<br>Design Director: Cory Galster<br>Associate Design Director: Cole Spiess<br>TVC Directors: Terri Timely<br>Production: Park Pictures<br>Photographers: Holly Andres & LM Chabot'
     },
     {
         module: 'title',
