@@ -265,6 +265,11 @@ var work = [
                 img: '/paze/cover.gif'
             },
             {
+                url: 'pazesocial',
+                caption: 'paze social',
+                img: '/pazesocial/cover.gif'
+            },
+            {
                 url: 'starbucks',
                 caption: 'starbucks earth month',
                 img: '/starbucks/cover.gif'
@@ -314,11 +319,7 @@ var work = [
                 caption: 'modern love (spec)',
                 img: '/modern-love/cover.png'
             },
-            {
-                url: 'the-purple-pamflet' ,
-                caption: 'the purple pamflet (spec)',
-                img: '/the-purple-pamflet/cover.gif'
-            },
+
         ]
     },
     {
@@ -740,9 +741,12 @@ var evolve = [
     },
     {
         module: 'description',
-        text:'The outdoors have a way of bringing out the good stuff. Something as simple as a walk can give us a breath of fresh air and fresh perspective, too. <br><br>For Evolve\u2019s rebrand, we were able to develop social-first shoot content across Instagram and Facebook.<br><br><b><a href=\'https://www.instagram.com/drinkevolve/\' target=\'blank\'>Drink Evolve on Instagram<\/a></b><br><br>Art Direction<br>Copywriter: Shravya Arra<br>Content Strategist: Mae Copeland<br>Creative Directors: Kristen Kriisa & Liz Agans<br>Executive Creative Director: Steve Street<br>Photographer: Johan T. Anderson<br><br>'
+        text:'The outdoors have a way of bringing out the good stuff. Something as simple as a walk can give us a breath of fresh air and fresh perspective, too. <br><br>For Evolve\u2019s rebrand, we were able to develop social-first content across Instagram and Facebook.<br><br><b><a href=\'https://www.instagram.com/drinkevolve/\' target=\'blank\'>Drink Evolve on Instagram<\/a></b><br><br>Art Direction<br>Copywriter: Shravya Arra & Lauren Jones<br>Content Strategist: Mae Copeland<br>Creative Directors: Kristen Kriisa & Liz Agans<br>Executive Creative Director: Steve Street<br>Photographer: Johan T. Anderson<br><br>'
     },
-   
+    {
+        module: 'title',
+        text: 'Photo Content'
+    },
     {
         module: 'photogrid',
         filenames: [
@@ -824,20 +828,184 @@ var evolve = [
         ]
     },
     {
+        module: 'title',
+        text: 'Designed Organic Social Content'
+    },
+    {
         module: 'photogrid',
         filenames: [
             {
-                image: '16_Early Riser.jpg',
+                image: '25.png',
                 x: '1',
                 y: '1'
             },
             {
-                image: '17_Biking Trail.jpg',
+                image: '26.png',
                 x: '1',
                 y: '1'
             },
             {
-                image: '18_TakeYourShoesOff.png',
+                image: '27.png',
+                x: '1',
+                y: '1'
+            }
+        ]
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '28.png',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '29.png',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '30.png',
+                x: '1',
+                y: '1'
+            }
+        ]
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '31.png',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '32.png',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '33.png',
+                x: '1',
+                y: '1'
+            }
+        ]
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '34.png',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '35.png',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '36.png',
+                x: '1',
+                y: '1'
+            }
+        ]
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '37.png',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '38.png',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '39.png',
+                x: '1',
+                y: '1'
+            }
+        ]
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '40.png',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '41.png',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '42.png',
+                x: '1',
+                y: '1'
+            }
+        ]
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '43.png',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '44.png',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '45.png',
+                x: '1',
+                y: '1'
+            }
+        ]
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '46.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '47.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '48.gif',
+                x: '1',
+                y: '1'
+            }
+        ]
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '49.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '50.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '51.gif',
                 x: '1',
                 y: '1'
             }
@@ -1268,7 +1436,7 @@ var paze = [
     },
     {
         module: 'description',
-        text:'A new online checkout service offered by some of America’s largest banks and credit unions. Created by the makers of Zelle.<br><br>Art Direction<br>Copywriter: Lauren Jones<br><br>CD: Bradford Gilmore<br>GCD: Mike Lee<br>Design Director: Cory Galster<br>Associate Design Director: Cole Spiess<br>TVC Directors: Terri Timely<br>Production: Park Pictures<br>Photographers: Holly Andres & LM Chabot'
+        text:'A new online checkout service offered by some of America’s largest banks and credit unions. Created by the makers of Zelle.<br><br>Art Direction/Design<br>Sr. Copywriter: Lauren Jones<br><br>CD: Bradford Gilmore<br>GCD: Mike Lee<br>Design Director: Cory Galster<br>Associate Design Director: Cole Spiess<br>TVC Directors: Terri Timely<br>Edit: Cut & Run<br>Photographers: Holly Andres & LM Chabot'
     },
     {
         module: 'title',
@@ -1295,6 +1463,14 @@ var paze = [
         html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/mn8nH6hmEG4?si=FYksiz9Ll3zjb-0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
     },
     {
+        module: 'title',
+        text: 'Paid Social Videos'
+    },
+    {
+        module: 'videoembed',
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/W1gWQC6bFcE?si=2ykVUToOwqJ5EAmt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
         module: 'videoembed',
         html: ''
     },
@@ -1314,3 +1490,181 @@ var paze = [
         module: 'back'
     }
 ]
+var pazesocial = [
+    {
+        module: 'title',
+        text: 'Paze Social'
+    },
+    {
+        module: 'description',
+        text:'A new online checkout means a new opportunity for paid and organic social. We helped Paze create a social playbook to establish the look and feel and tapped into trends/culture that was ownable for the brand.<br><br> Check out <a href=\'https://www.instagram.com/pazecheckout/\' target=\'blank\'>Paze on Instagram<\/a> for more.<br><br>Art Direction/Design/Motion Graphics/Editing<br>Sr. Copywriter: Lauren Jones<br><br>CD: Bradford Gilmore<br>GCD: Mike Lee<br>Design Director: Cory Galster<br>Associate Design Director: Cole Spiess<br>Motion Design assistance: Matt Price & Isaiah Edwards<br>Photographers: Holly Andres & LM Chabot<br><br>'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '1.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '2.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '3.gif',
+                x: '1',
+                y: '1'
+            }
+        ]
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '4.png',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '5.png',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '6.gif',
+                x: '1',
+                y: '1'
+            }
+        ]
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '7.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '8.png',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '9.gif',
+                x: '1',
+                y: '1'
+            }
+        ]
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '10.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '11.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '12.gif',
+                x: '1',
+                y: '1'
+            }
+        ]
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '13.png',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '14.png',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '15.png',
+                x: '1',
+                y: '1'
+            }
+        ]
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '16.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '17.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '18.gif',
+                x: '1',
+                y: '1'
+            }
+        ]
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '19.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '20.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '21.gif',
+                x: '1',
+                y: '1'
+            }
+        ]
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '22.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '23.gif',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: '24.gif',
+                x: '1',
+                y: '1'
+            }
+        ]
+    },
+    {
+        module: 'back'
+    },
+    
+]
+    
+    {
+        module: 'back'
+    }
