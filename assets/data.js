@@ -261,7 +261,7 @@ var work = [
         data: [
             {
                 url: 'paze',
-                caption: 'paze',
+                caption: 'paze launch campaign',
                 img: '/paze/cover.gif'
             },
             {
@@ -281,7 +281,7 @@ var work = [
             },
             {
                 url: 'evolve21',
-                caption: 'evolve 2021',
+                caption: 'evolve 2021 campaign',
                 img: '/evolve21/cover.gif'
             },
             {
@@ -324,7 +324,7 @@ var work = [
     },
     {
         module: 'description',
-        text: '<br><br>Hi! My name is Ingrid (she\/hers) and I\'m an art director and multidisciplinary designer who\u00A0aims to tell stories with empathy and curiosity.<br><br>Currently a\u00A0Senior Art Director at <a href=\'https://www.SPCSHP.com\' target=\'blank\'>SPCSHP<\/a>\u00A0\uD83D\uDE80 based in Brooklyn, NY<br><br><br>Creating space at <a href=\'https://www.instagram.com/sparks_magazine/\' target=\'blank\'>Sparks Magazine<\/a><br><br>For illustrations and comics\u00A0<a href=\'https://www.instagram.com/ingridraws/\' target=\'blank\'>@ingridraws<\/a> and self-deprecating bread puns <a href=\'https://www.instagram.com/self.loafing/\' target=\'blank\'>@self.loafing<\/a><br><br><a href=\"mailto:me@ingridwu.art\">me@ingridwu.art<\/a><br><br><a href=\'https://www.linkedin.com/in/ingrid-wu-715099107/\' target=\'blank\'>LinkedIn<\/a><br><br>',
+        text: '<br><br>Ingrid (she\/hers) is a creative based in NYC with a focus in art direction and brand design, working across tech, financial services, and CPG brands.<br><br>Currently designing at Amazon. Open to full time and freelance opportunities and/or sweet, savory food recs. <br><br>---<br><br>Creating space for AAPI stories at <a href=\'https://www.instagram.com/sparks_magazine/\' target=\'blank\'>Sparks Magazine<\/a><br><br>Find illustrations and comics\u00A0<a href=\'https://www.instagram.com/ingridraws/\' target=\'blank\'>@ingridraws<\/a> and self-deprecating bread puns <a href=\'https://www.instagram.com/self.loafing/\' target=\'blank\'>@self.loafing<\/a><br><br><a href=\"mailto:me@ingridwu.art\">me@ingridwu.art<\/a><br><br><a href=\'https://www.linkedin.com/in/ingrid-wu-715099107/\' target=\'blank\'>LinkedIn<\/a><br><br>',
         inline: 'id=\'about\' style="max-width:1200px;font-size:20px"'
     }
 ]
