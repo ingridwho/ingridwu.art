@@ -1444,23 +1444,23 @@ var paze = [
     },
     {
         module: 'videoembed',
-        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/v9NSu4LaMAQ?si=uwmBexLPVsmveBNe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/ayTSQi3FHkQ?si=VcL7elFjbQoqiOfR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
     },
     {
         module: 'videoembed',
-        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/vg6WpCRboIE?si=B4qz-cmpvisv6fD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/_bVepNx6Zaw?si=-pLITe_TiFuIL7Io" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
     },
     {
         module: 'videoembed',
-        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/Tumgx8mLTXo?si=jTuoNtUO_qzJU_Ar" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/bmYo2s5WqYw?si=pQZwR6brUDtwNK7B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
     },
     {
         module: 'videoembed',
-        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/y4Jb7CetKk0?si=NzIa0704zrSc5S4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/Q4JHIO6_wdM?si=iz6-CqqXwbMX6ErL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
     },
     {
         module: 'videoembed',
-        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/mn8nH6hmEG4?si=FYksiz9Ll3zjb-0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+        html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/aHWD_bPbyTc?si=OviWdfZgU4LJSkVE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
     },
     {
         module: 'title',
