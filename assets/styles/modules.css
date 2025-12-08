@@ -1,7 +1,7 @@
 .modules {
     max-width:100%;
     margin: 0 auto;
-    color: black;
+    color: #523800;
 }
 
 /* title */
@@ -11,7 +11,7 @@
     margin-left: 15px;
     margin-right: 15px;
     margin-top: 5%;
-    font-weight: bold;
+    font-weight: regular;
 }
 
 /* description */
@@ -106,7 +106,7 @@
 	top: 0;
 	width: 100%;
 	height: 100%;
-	background-color: rgba(0, 0, 0, 0.432);
+	background-color: #523800;
 }
 /* Modal Content */
 .modules .modal-content {

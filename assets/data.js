@@ -260,6 +260,11 @@ var work = [
         module: 'container',
         data: [
             {
+                url: 'amazonadsphoto',
+                caption: 'amazon ads brand photography',
+                img: '/amazonadsphoto/cover.png'
+            },
+            {
                 url: 'paze',
                 caption: 'paze launch campaign',
                 img: '/paze/cover.gif'
@@ -309,11 +314,7 @@ var work = [
                 caption: 'i\u2019m outta here (spec)',
                 img: '/outta/cover.png'
             },
-            {
-                url: 'schmidts',
-                caption: 'schmidts (spec)',
-                img: '/schmidts/cover.gif'
-            },
+
             {
                 url: 'modern-love',
                 caption: 'modern love (spec)',
@@ -324,7 +325,7 @@ var work = [
     },
     {
         module: 'description',
-        text: '<br><br>Ingrid (she\/hers) is a creative based in NYC with a focus in art direction and brand design, working across tech, financial services, and CPG brands.<br><br>Currently creating at Amazon. Open to commissions, freelance opportunities and/or sweet, savory food recs. <br><br>---<br><br>Creating space for AAPI stories at <a href=\'https://www.instagram.com/sparks_magazine/\' target=\'blank\'>Sparks Magazine<\/a><br><br>Find illustrations and comics\u00A0<a href=\'https://www.instagram.com/ingridraws/\' target=\'blank\'>@ingridraws<\/a> and self-deprecating bread puns <a href=\'https://www.instagram.com/self.loafing/\' target=\'blank\'>@self.loafing<\/a><br><br><a href=\"mailto:me@ingridwu.art\">me@ingridwu.art<\/a><br><br><a href=\'https://www.linkedin.com/in/ingrid-wu-715099107/\' target=\'blank\'>LinkedIn<\/a><br><br>',
+        text: '<br><br>Ingrid (she\/hers) is a creative based in NYC with a focus in art direction and brand design, working across tech, financial services, and CPG brands.<br><br>Currently creating at Amazon. Open to fulltime/freelance opportunities or sweet and savory food recs. <br><br>  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊<br><br>Creating space for AAPI stories at <a href=\'https://www.instagram.com/sparks_magazine/\' target=\'blank\'>Sparks Magazine<\/a><br><br>Find illustrations and comics\u00A0<a href=\'https://www.instagram.com/ingridraws/\' target=\'blank\'>@ingridraws<\/a> and self-deprecating bread puns <a href=\'https://www.instagram.com/self.loafing/\' target=\'blank\'>@self.loafing<\/a><br><br><a href=\"mailto:me@ingridwu.art\">me@ingridwu.art<\/a><br><br><a href=\'https://www.linkedin.com/in/ingrid-wu-715099107/\' target=\'blank\'>LinkedIn<\/a><br><br>',
         inline: 'id=\'about\' style="max-width:1200px;font-size:20px"'
     }
 ]
@@ -1664,7 +1665,41 @@ var pazesocial = [
     },
     
 ]
+var amazonadsphoto= [
+    {
+        module: 'title',
+        text: 'Amazon Ads Brand Photography'
+    },
+    {
+        module: 'description',
+        text: 'Amazon Ads delivers full-funnel advertising solutions across streaming, shopping, and more. When the brand underwent a major identity refresh in early 2025, the existing photography library was quickly deemed outdated. To pivot towards a more humanistic and elevated visual style, I led the art direction for a comprehensive new photo library. This initiative resulted in over a hundred key assets, strategically designed to represent diverse audiences, ad products, and Amazon properties globally.<br><br>Amazon Ads<br>Art Director: Ingrid Wu<br>Senior Brand Manager: Alex Andreadis<br>Lead Visual Designer: Ken Sheldon<br>Visual Designer: Stella Kwoun<br>Global Head of brand Strategy: Dipal Shah<br>Head of Amazon Ads Creative Studio: Jen Nelson<br><br>B&A<br>Photographer: Tara Donne<br>Production: Naomi Lindberg<br>Set Designer & Prop Stylist: Rebecca Donnelly<br>Wardrobe: Karen Schijman<br>Food Styling: Drew Aichele<br><br></br>'
+    },
+    {
+        module: 'widephoto',
+        filename: '1.png'
+    },
+    {
+        module: 'widephoto',
+        filename: '2.png'
+    },
+    {
+        module: 'widephoto',
+        filename: '3.png'
+    },
+    {
+        module: 'widephoto',
+        filename: '4.png'
+    },
+    {
+        module: 'widephoto',
+        filename: '5.png'
+    },
+    {
+        module: 'back'
+    },
     
+]  
+
     {
         module: 'back'
     }

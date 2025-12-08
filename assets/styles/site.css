@@ -1,8 +1,8 @@
-@font-face { font-family: SharpGrotesExpBook; src: url('/assets/fonts/SharpGroteskExpBook.otf'); }
-@font-face { font-family: SharpGrotesExpSemiBold; src: url('/assets/fonts/SharpGroteskExpSemiBold.otf'); }
+@font-face { font-family: SharpGroteskExpBook; src: url('/assets/fonts/Inter_28pt-Regular.ttf'); }
+@font-face { font-family: SharpGrotesExpSemiBold; src: url('/assets/fonts/Inter_28pt-SemiBold.ttf'); }
 body{
     background-color:white;
-    font-family: SharpGrotesExpBook;
+    font-family: Inter;
     padding: 0 5%;
 }
 html{

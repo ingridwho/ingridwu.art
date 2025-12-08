@@ -15,11 +15,11 @@
 }
 
 .topnav a.active{
-    color: darkcyan;
+    color: #00449D;
 }
 
 .topnav .name{
-    color:#E95524;
+    color:#619100;
 }
 
 .topnav a:hover{
