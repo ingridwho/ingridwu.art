@@ -1,5 +1,5 @@
-@font-face { font-family: SharpGroteskExpBook; src: url('/assets/fonts/Inter_28pt-Regular.ttf'); }
-@font-face { font-family: SharpGrotesExpSemiBold; src: url('/assets/fonts/Inter_28pt-SemiBold.ttf'); }
+@font-face { font-family: Inter Regular; src: url('/assets/fonts/Inter_28pt-Regular.ttf'); }
+@font-face { font-family: Inter SemiBold; src: url('/assets/fonts/Inter_28pt-SemiBold.ttf'); }
 body{
     background-color:white;
     font-family: Inter;
