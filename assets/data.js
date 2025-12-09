@@ -1498,7 +1498,7 @@ var pazesocial = [
     },
     {
         module: 'description',
-        text:'A new online checkout means a new opportunity for paid and organic social. We helped Paze establish their first social playbook to define the look and feel that tapped into trends and culture that were ownable for the brand.<br><br> Check out <a href=\'https://www.instagram.com/pazecheckout/\' target=\'blank\'>Paze on Instagram<\/a> for more.<br><br>Art Direction/Design/Motion Graphics/Editing<br>Sr. Copywriter: Lauren Jones<br><br>CD: Bradford Gilmore<br>GCD: Mike Lee<br>Design Director: Cory Galster<br>Associate Design Director: Cole Spiess<br>Motion Design assistance: Matt Price & Isaiah Edwards<br>Photographers: Holly Andres & LM Chabot<br><br>'
+        text:'The launch of Paze as a new online checkout presented an opportunity for paid and organic social media growth. We developed the brand\u2019s first social media playbook to define a distinct look and feel, including leveraging current trends and culture in an ownable way.<br><br> Check out <a href=\'https://www.instagram.com/pazecheckout/\' target=\'blank\'>Paze on Instagram<\/a> for more.<br><br>Art Direction/Design/Motion Graphics/Editing<br>Sr. Copywriter: Lauren Jones<br><br>CD: Bradford Gilmore<br>GCD: Mike Lee<br>Design Director: Cory Galster<br>Associate Design Director: Cole Spiess<br>Motion Design assistance: Matt Price & Isaiah Edwards<br>Photographers: Holly Andres & LM Chabot<br><br>'
     },
     {
         module: 'photogrid',
