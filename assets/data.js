@@ -1,259 +1,3 @@
-var calibold = [
-    {
-        module: 'title',
-        text: 'Puma Women'
-    },
-    {
-        module: 'description',
-        text: 'To promote PUMA\'s Cali Bold sneaker launch, We Are Social led the production of a mural in Williamsburg, Brooklyn, illustrated by Brittany Byrd, to remind women to #BeBold. A story of the process and end product was created for the @PUMAWomens Instagram account.<br><br>Art Direction/Graphic/Motion Design<br>Senior Art Director: Vu Tran'
-    },
-    {
-        module: 'widephoto',
-        filename: '1.gif'
-    },
-    {
-        module: 'widephoto',
-        filename: '2.gif'
-    },
-    {
-        module: 'widephoto',
-        filename: '3.gif'
-    },
-    {
-        module: 'back'
-    }
-]
-
-var schmidts = [
-    {
-        module: 'title',
-        text: 'SCHMIDT\'S (spec)'
-    },
-    {
-        module: 'description',
-        text: 'A big hitch in adopting natural deodorant is that your body often gets smellier as you adjust. So how do you get people to stick with it? Change the adjustment  period into an awkward, natural life initiation.<br><br>AD: Ingrid Wu CW: <a href=\'https://hiimryan.com/\' target=\'blank\'>Ryan Hufnagel</a><br>ACDs: Heather Apple & Erin Stevens<br>Completed during Swift Agency\'s Flight School Night School Fellowship'
-    },
-    {
-        module: 'widephoto',
-        filename: '1.png'
-    },
-    {
-        module: 'widephoto',
-        filename: '2.png'//,
-        //inline: 'max-width:200px;outline-style:solid;margin: 0 auto;'
-    },
-    {
-        module: 'widephoto',
-        filename: '3.png'
-    },
-    {
-        module: 'widephoto',
-        filename: '4.png'
-    },
-    {
-        module: 'widephoto',
-        filename: '5.png'
-    },
-    {
-        module: 'widephoto',
-        filename: '6.png'
-    },
-    {
-        module: 'back'
-    }
-]
-
-var purplepamflet = [
-    {
-        module: 'title',
-        text: 'The Purple Pamflet (spec)'
-    },
-    {
-        module: 'description',
-        text: 'Art Direction<br>Strategist: <a href =\'https://www.graceubben.com/\' target=\'blank\'>Grace Ubben</a>'
-    },
-    {
-        module: 'description',
-        text:'In the 1950s, the Lavender Scare was the panic and fear of homosexuality aligned with McCarthyism. The State of Florida created the Johns Committee in 1956 which operated as a witch hunt for queer individuals within Florida state colleges. Hundreds of students and faculty were expelled from campus, ruining lives and scarring the history of Florida’s college system. <br><br>The original Purple Pamphlet was a booklet created by the Johns Committee as anti-queer propaganda. It received backlash from the public as government-funded pornography and was immediately shut down, along with the Johns Committee. <br><br>Purple Pamflet <a href=\'https://www.instagram.com/purplepamflet/\' target=\'blank\'>@purplepamflet<\/a> (yes, with an F) will shed light on the dark history of Florida\'s university system and educate about the Lavender Scare by reinventing traditional advocacy zines and pamphlets in the digital space.'
-    },
-    {
-        module: 'title',
-        text: 'Queer Vouchers'
-    },
-    {
-        module: 'description',
-        text: 'To further the process of the witch hunt in the 1950\'s, the University Police Department offered $10 (~$94 in 2020) to anyone who had information of names of potential queer individuals.<br><br>To spread word of the Johns Committee and Purple Pamflet Instagram, vouchers asking to exchange an individual who identified as LGBTQA+ for $10 would be passed out to create traffic towards the Instagram. Voucher designs would represent a specific community within the spectrum using pride flag colors.'
-    },
-    {
-        module: 'photogrid',
-        filenames: [
-            {
-                image: '4.jpg',
-                x: '1200',
-                y: '512'
-            },
-            {
-                image: '5.jpg',
-                x: '1200',
-                y: '513'
-            }
-        ]//,
-        //inline: 'max-width:1200px;margin:0 auto'
-    },
-    {
-        module: 'photogrid',
-        filenames: [
-            {
-                image: '6.jpg',
-                x: '1200',
-                y: '512'
-            },
-            {
-                image: '7.jpg',
-                x: '1200',
-                y: '512'
-            }
-        ]//,
-        //inline: 'max-width:1200px;margin:0 auto'
-    },
-    {
-        module: 'title',
-        text: '@PurplePamflet'
-    },
-    {
-        module: 'description',
-        text: 'Through the Instagram platform, illustrations and comics will detail the history of the Lavender Scare and also share personal narratives and quotes from those affected.<br><br> An Instagram story series, "The Gay B C\'s" will educate viewers on queer terminiology and definitions in contrast to the original Purple Pamphlet\'s slander and propaganda.<br><br><br><br>'
-    },
-    {
-        module: 'photogrid',
-        filenames: [
-            {
-                image: '8.png',
-                x: '980',
-                y: '1920'
-            },
-            {
-                image: '9.gif',
-                x: '980',
-                y: '1920'
-            }
-        ],
-        inline: 'style="max-width:700px;margin:0 auto"'
-    },
-    {
-        module: 'back'
-    }
-]
-
-var modernlove = [
-    {
-        module: 'title',
-        text: 'Modern Love (spec)'
-    },
-    {
-        module: 'description',
-        text: 'The New York Times’ Modern Love column chronicles the difficulties of love, loss and redemption. Today, a swipe can make or break a connection— but, somehow, many of the characteristics that define modern romance remain universal.<br><br>Art Direction<br>Copywriter: <a href =\'https://www.linkedin.com/in/denise-akerman/\' target=\'blank\'>Denise Akerman</a>'
-    },
-    {
-        module: 'title',
-        text: 'OUT OF HOME'
-    },
-    {
-        module: 'widephoto',
-        filename: '1.png'
-    },
-    {
-        module: 'widephoto',
-        filename: '2.png'
-    },
-    {
-        module: 'photogrid',
-        filenames: [
-            {
-                image: '3.png',
-                x: '1435',
-                y: '1148'
-            },
-            {
-                image: '4.png',
-                x: '1768',
-                y: '1621'
-            }
-        ]//,
-        //inline: 'max-width:1200px;margin:0 auto'
-    },
-    {
-        module: 'description',
-        text: '<br><br>Taxis in Europe often feature advertising on the backside of their passenger seats, which we’ll replicate in taxis all over New York City.'
-    },
-    {
-        module: 'widephoto',
-        filename: '5.png'
-    },
-    {
-        module: 'title',
-        text: 'PAID SOCIAL'
-    },
-    {
-        module: 'description',
-        text: 'Contemporary relationship drama will be explored on Instagram.*<br><br>*Well, more than it already is.'
-    },
-    {
-        module: 'photogrid',
-        filenames: [
-            {
-                image: '6.gif',
-                x: '980',
-                y: '1920'
-            },
-            {
-                image: '7.gif',
-                x: '980',
-                y: '1920'
-            }
-        ],
-        inline: 'style="max-width:700px;margin:0 auto"'
-    },
-    {
-        module: 'title',
-        text: 'CANDLES'
-    },
-    {
-        module: 'description',
-        text: 'The “Significant Scents” candle set will be available for a limited time on the Modern Love merch site.<br><br>Made for fans who’ve always dreamed of feeling a spark (or several at once — who are we to judge?)'
-    },
-    {
-        module: 'widephoto',
-        filename: '8.png'
-    },
-    {
-        module: 'widephoto',
-        filename: '9.png'
-    },
-    {
-        module: 'title',
-        text: 'MODERN LOVE X AMAZON PRIME VIDEO DATING SIMULATOR'
-    },
-    {
-        module: 'description',
-        text: 'To launch the second season of Modern Love: The Series on Amazon Prime, we’ll create our very own dating simulator. Instead of ads in between episodes, Prime subscribers will delve into the romantic situations on the show and make choices that mirror (or drastically deviate from) the protagonists themselves. And who better to narrate and give unsolicited, yet accurate love advice than the Purveyor of the Romantic Comedy herself, Mindy Kaling'
-    },
-    {
-        module: 'widephoto',
-        filename: '10.png'
-    },
-    {
-        module: 'widephoto',
-        filename: '11.png'
-    },
-    {
-        module: 'widephoto',
-        filename: '12.png'
-    },
-    {
-        module: 'back'
-    }
-]
 
 var work = [
     {
@@ -273,6 +17,11 @@ var work = [
                 url: 'pazesocial',
                 caption: 'paze social',
                 img: '/pazesocial/cover.gif'
+            },
+            {
+                url: 'amazonadsevents',
+                caption: 'amazon ads GTM',
+                img: '/amazonadsevents/cover.jpg'
             },
             {
                 url: 'starbucks',
@@ -309,11 +58,7 @@ var work = [
                 caption: 'puma women',
                 img: '/calibold/cover.gif'
             },
-            {
-                url: 'outta',
-                caption: 'i\u2019m outta here (spec)',
-                img: '/outta/cover.png'
-            },
+
 
             {
                 url: 'modern-love',
@@ -734,7 +479,6 @@ var art = [
         module: 'back'
     }
 ]
-
 var evolve = [
     {
         module: 'title',
@@ -1016,7 +760,6 @@ var evolve = [
         module: 'back'
     }
 ]
-
 var starbucks = [
     {
         module: 'title',
@@ -1127,7 +870,6 @@ var starbucks = [
         module: 'back'
     }
 ]
-
 var robin = [
     {
         module: 'title',
@@ -1194,7 +936,6 @@ var robin = [
         module: 'back'
     }
 ]
-
 var searchon = [
     {
         module: 'title',
@@ -1297,7 +1038,6 @@ var searchon = [
         module: 'back'
     }
 ]
-
 var evolve21 = [
     {
         module: 'title',
@@ -1339,54 +1079,6 @@ var evolve21 = [
         module: 'back'
     }
 ]
-
-var outta = [
-    {
-        module: 'title',
-        text: 'I\u2019m Outta Here (spec)'
-    },
-    {
-        module: 'description',
-        text: 'Young Shark Creative Brief 2023 entry.<br><br>In this year\u2019s brief, we are placed ten years into the future where assisted dying is legal everywhere and a DIY assisted dying kit is preparing for its entry into the pharmaceutical market. This kit called "I\u2019m Outta Here" is 100% pain-free and effective. All you need is a prescription from your doctor. Here\u2019s how we would advertise it.<br><br>Art Direction<br>Copywriter: <a href =\'https://www.linkedin.com/in/denise-akerman/\' target=\'blank\'>Denise Akerman</a>'
-    },
-    {
-        module: 'widephoto',
-        filename: '01.png'
-    },
-    {
-        module: 'widephoto',
-        filename: '02.png'
-    },
-    {
-        module: 'photogrid',
-        filenames: [
-            {
-                image: '03.png',
-                x: '1435',
-                y: '1148'
-            },
-            {
-                image: '04.png',
-                x: '1768',
-                y: '1621'
-            }
-        ]//,
-        //inline: 'max-width:1200px;margin:0 auto'
-    },
-    {
-        module: 'widephoto',
-        filename: '05.png'
-    },
-    {
-        module: 'widephoto',
-        filename: '06.png'
-    },
-    {
-        module: 'back'
-    },
-    
-]
-
 var search = [
     {
         module: 'title',
@@ -1429,7 +1121,6 @@ var search = [
     },
     
 ]
-
 var paze = [
     {
         module: 'title',
@@ -1699,6 +1390,444 @@ var amazonadsphoto= [
     },
     
 ]  
+var amazongtm= [
+    {
+        module: 'title',
+        text: 'Amazon Ads GTM Events'
+    },
+    {
+        module: 'description',
+        text: 'During my time as art director for Amazon Ads, I oversaw the development visual identities and deliverables for various go-to-market events. A key part of my role was ensuring Amazon Ads retained its cohesive brand identity across different internal teams and agency/production partners. We explored the different ways the branding guidelines could be templatized, iterated, and innovated.'
+    },
+    {
+        module: 'title',
+        text: 'Amazon Upfronts 2025'
+    },
+    {
+        module: 'description',
+        text: 'The Amazon Upfront is an annual, high-profile event where Amazon presents its upcoming entertainment, sports, and streaming content—including Prime Video, Twitch, and Amazon MGM Studios—to advertisers to secure, early, upfront ad-buys. It serves as a major venue for revealing new ad tech innovations, such as AI-powered, interactive, and shoppable ad formats.<br><br>I developed the design identity for the online streaming experience for those not able to attend in person. This included a landing page, social, email, and print collateral.<br><br>There were 10.6K livestreams on the Upfront landing page during the event.'
+    },
+    {
+        module: 'widephoto',
+        filename: 'LandingPage2.gif'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: 'AmazonGTM2.png',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: 'AmazonGTM3.png',
+                x: '800',
+                y: '450'
+            }
+        ]//,
+        //inline: 'max-width:1200px;margin:0 auto'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: 'AmazonGTM4.png',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: 'AmazonGTM5.png',
+                x: '800',
+                y: '450'
+            }
+        ]//,
+        //inline: 'max-width:1200px;margin:0 auto'
+    },
+    {
+        module: 'title',
+        text: 'Amazon Ads Beauty and Fashion Summit 2025'
+    },
+    {
+        module: 'description',
+        text: 'The Amazon Ads Beauty and Fashion Summit brings together global beauty/fashion brands and Amazon Ads executives for a day of strategic insights, entertainment, and networking.<br><br>I developed the visual identity for the event including digital touchpoints and print collateral.'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: 'AmazonGTM6.png',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: 'AmazonGTM7.png',
+                x: '800',
+                y: '450'
+            }
+        ]//,
+        //inline: 'max-width:1200px;margin:0 auto'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: 'AmazonGTM8.png',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: 'AmazonGTM9.png',
+                x: '800',
+                y: '450'
+            }
+        ]//,
+        //inline: 'max-width:1200px;margin:0 auto'
+    },
+    {
+        module: 'title',
+        text: 'Amazon Accelerate 2025'
+    },
+    {
+        module: 'description',
+        text: 'Amazon Accelerate is the annual seller conference for e-commerce business owners. The VP of Product and Tech, Jay Richman, gave a keynote presentation on the new Amazon agentic AI tool.<br><br>As art director, I collaborated with Amazon product marketers and the creative agency, Code and Theory, to develop the visuals for this keynote.'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: 'AmazonGTM10.gif',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: 'AmazonGTM12.gif',
+                x: '800',
+                y: '450'
+            }
+        ]//,
+        //inline: 'max-width:1200px;margin:0 auto'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: 'AmazonGTM13.gif',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: 'AmazonGTM11.gif',
+                x: '800',
+                y: '450'
+            }
+        ]//,
+        //inline: 'max-width:1200px;margin:0 auto'
+    },
+    {
+        module: 'back'
+    },
+    
+]  
+var calibold = [
+    {
+        module: 'title',
+        text: 'Puma Women'
+    },
+    {
+        module: 'description',
+        text: 'To promote PUMA\'s Cali Bold sneaker launch, We Are Social led the production of a mural in Williamsburg, Brooklyn, illustrated by Brittany Byrd, to remind women to #BeBold. A story of the process and end product was created for the @PUMAWomens Instagram account.<br><br>Art Direction/Graphic/Motion Design<br>Senior Art Director: Vu Tran'
+    },
+    {
+        module: 'widephoto',
+        filename: '1.gif'
+    },
+    {
+        module: 'widephoto',
+        filename: '2.gif'
+    },
+    {
+        module: 'widephoto',
+        filename: '3.gif'
+    },
+    {
+        module: 'back'
+    }
+]
+var modernlove = [
+    {
+        module: 'title',
+        text: 'Modern Love (spec)'
+    },
+    {
+        module: 'description',
+        text: 'The New York Times’ Modern Love column chronicles the difficulties of love, loss and redemption. Today, a swipe can make or break a connection— but, somehow, many of the characteristics that define modern romance remain universal.<br><br>Art Direction<br>Copywriter: <a href =\'https://www.linkedin.com/in/denise-akerman/\' target=\'blank\'>Denise Akerman</a>'
+    },
+    {
+        module: 'title',
+        text: 'OUT OF HOME'
+    },
+    {
+        module: 'widephoto',
+        filename: '1.png'
+    },
+    {
+        module: 'widephoto',
+        filename: '2.png'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '3.png',
+                x: '1435',
+                y: '1148'
+            },
+            {
+                image: '4.png',
+                x: '1768',
+                y: '1621'
+            }
+        ]//,
+        //inline: 'max-width:1200px;margin:0 auto'
+    },
+    {
+        module: 'description',
+        text: '<br><br>Taxis in Europe often feature advertising on the backside of their passenger seats, which we’ll replicate in taxis all over New York City.'
+    },
+    {
+        module: 'widephoto',
+        filename: '5.png'
+    },
+    {
+        module: 'title',
+        text: 'PAID SOCIAL'
+    },
+    {
+        module: 'description',
+        text: 'Contemporary relationship drama will be explored on Instagram.*<br><br>*Well, more than it already is.'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '6.gif',
+                x: '980',
+                y: '1920'
+            },
+            {
+                image: '7.gif',
+                x: '980',
+                y: '1920'
+            }
+        ],
+        inline: 'style="max-width:700px;margin:0 auto"'
+    },
+    {
+        module: 'title',
+        text: 'CANDLES'
+    },
+    {
+        module: 'description',
+        text: 'The “Significant Scents” candle set will be available for a limited time on the Modern Love merch site.<br><br>Made for fans who’ve always dreamed of feeling a spark (or several at once — who are we to judge?)'
+    },
+    {
+        module: 'widephoto',
+        filename: '8.png'
+    },
+    {
+        module: 'widephoto',
+        filename: '9.png'
+    },
+    {
+        module: 'title',
+        text: 'MODERN LOVE X AMAZON PRIME VIDEO DATING SIMULATOR'
+    },
+    {
+        module: 'description',
+        text: 'To launch the second season of Modern Love: The Series on Amazon Prime, we’ll create our very own dating simulator. Instead of ads in between episodes, Prime subscribers will delve into the romantic situations on the show and make choices that mirror (or drastically deviate from) the protagonists themselves. And who better to narrate and give unsolicited, yet accurate love advice than the Purveyor of the Romantic Comedy herself, Mindy Kaling'
+    },
+    {
+        module: 'widephoto',
+        filename: '10.png'
+    },
+    {
+        module: 'widephoto',
+        filename: '11.png'
+    },
+    {
+        module: 'widephoto',
+        filename: '12.png'
+    },
+    {
+        module: 'back'
+    }
+]
+var schmidts = [
+    {
+        module: 'title',
+        text: 'SCHMIDT\'S (spec)'
+    },
+    {
+        module: 'description',
+        text: 'A big hitch in adopting natural deodorant is that your body often gets smellier as you adjust. So how do you get people to stick with it? Change the adjustment  period into an awkward, natural life initiation.<br><br>AD: Ingrid Wu CW: <a href=\'https://hiimryan.com/\' target=\'blank\'>Ryan Hufnagel</a><br>ACDs: Heather Apple & Erin Stevens<br>Completed during Swift Agency\'s Flight School Night School Fellowship'
+    },
+    {
+        module: 'widephoto',
+        filename: '1.png'
+    },
+    {
+        module: 'widephoto',
+        filename: '2.png'//,
+        //inline: 'max-width:200px;outline-style:solid;margin: 0 auto;'
+    },
+    {
+        module: 'widephoto',
+        filename: '3.png'
+    },
+    {
+        module: 'widephoto',
+        filename: '4.png'
+    },
+    {
+        module: 'widephoto',
+        filename: '5.png'
+    },
+    {
+        module: 'widephoto',
+        filename: '6.png'
+    },
+    {
+        module: 'back'
+    }
+]
+var purplepamflet = [
+    {
+        module: 'title',
+        text: 'The Purple Pamflet (spec)'
+    },
+    {
+        module: 'description',
+        text: 'Art Direction<br>Strategist: <a href =\'https://www.graceubben.com/\' target=\'blank\'>Grace Ubben</a>'
+    },
+    {
+        module: 'description',
+        text:'In the 1950s, the Lavender Scare was the panic and fear of homosexuality aligned with McCarthyism. The State of Florida created the Johns Committee in 1956 which operated as a witch hunt for queer individuals within Florida state colleges. Hundreds of students and faculty were expelled from campus, ruining lives and scarring the history of Florida’s college system. <br><br>The original Purple Pamphlet was a booklet created by the Johns Committee as anti-queer propaganda. It received backlash from the public as government-funded pornography and was immediately shut down, along with the Johns Committee. <br><br>Purple Pamflet <a href=\'https://www.instagram.com/purplepamflet/\' target=\'blank\'>@purplepamflet<\/a> (yes, with an F) will shed light on the dark history of Florida\'s university system and educate about the Lavender Scare by reinventing traditional advocacy zines and pamphlets in the digital space.'
+    },
+    {
+        module: 'title',
+        text: 'Queer Vouchers'
+    },
+    {
+        module: 'description',
+        text: 'To further the process of the witch hunt in the 1950\'s, the University Police Department offered $10 (~$94 in 2020) to anyone who had information of names of potential queer individuals.<br><br>To spread word of the Johns Committee and Purple Pamflet Instagram, vouchers asking to exchange an individual who identified as LGBTQA+ for $10 would be passed out to create traffic towards the Instagram. Voucher designs would represent a specific community within the spectrum using pride flag colors.'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '4.jpg',
+                x: '1200',
+                y: '512'
+            },
+            {
+                image: '5.jpg',
+                x: '1200',
+                y: '513'
+            }
+        ]//,
+        //inline: 'max-width:1200px;margin:0 auto'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '6.jpg',
+                x: '1200',
+                y: '512'
+            },
+            {
+                image: '7.jpg',
+                x: '1200',
+                y: '512'
+            }
+        ]//,
+        //inline: 'max-width:1200px;margin:0 auto'
+    },
+    {
+        module: 'title',
+        text: '@PurplePamflet'
+    },
+    {
+        module: 'description',
+        text: 'Through the Instagram platform, illustrations and comics will detail the history of the Lavender Scare and also share personal narratives and quotes from those affected.<br><br> An Instagram story series, "The Gay B C\'s" will educate viewers on queer terminiology and definitions in contrast to the original Purple Pamphlet\'s slander and propaganda.<br><br><br><br>'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '8.png',
+                x: '980',
+                y: '1920'
+            },
+            {
+                image: '9.gif',
+                x: '980',
+                y: '1920'
+            }
+        ],
+        inline: 'style="max-width:700px;margin:0 auto"'
+    },
+    {
+        module: 'back'
+    }
+]
+var outta = [
+    {
+        module: 'title',
+        text: 'I\u2019m Outta Here (spec)'
+    },
+    {
+        module: 'description',
+        text: 'Young Shark Creative Brief 2023 entry.<br><br>In this year\u2019s brief, we are placed ten years into the future where assisted dying is legal everywhere and a DIY assisted dying kit is preparing for its entry into the pharmaceutical market. This kit called "I\u2019m Outta Here" is 100% pain-free and effective. All you need is a prescription from your doctor. Here\u2019s how we would advertise it.<br><br>Art Direction<br>Copywriter: <a href =\'https://www.linkedin.com/in/denise-akerman/\' target=\'blank\'>Denise Akerman</a>'
+    },
+    {
+        module: 'widephoto',
+        filename: '01.png'
+    },
+    {
+        module: 'widephoto',
+        filename: '02.png'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '03.png',
+                x: '1435',
+                y: '1148'
+            },
+            {
+                image: '04.png',
+                x: '1768',
+                y: '1621'
+            }
+        ]//,
+        //inline: 'max-width:1200px;margin:0 auto'
+    },
+    {
+        module: 'widephoto',
+        filename: '05.png'
+    },
+    {
+        module: 'widephoto',
+        filename: '06.png'
+    },
+    {
+        module: 'back'
+    },
+    
+]
+
 
     {
         module: 'back'
