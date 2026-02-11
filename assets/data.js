@@ -325,19 +325,19 @@ var work = [
     },
     {
         module: 'description',
-        text: '<br><br>Ingrid (she\/hers) is a creative based in NYC with a focus in art direction and brand design, working across tech, CPG brands, and more.<br><br>Currently creating at Amazon. Open to fulltime/freelance opportunities or sweet and savory food recs. <br><br>  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊<br><br>Creating space for AAPI stories at <a href=\'https://www.instagram.com/sparks_magazine/\' target=\'blank\'>Sparks Magazine<\/a><br><br>Find illustrations and comics\u00A0<a href=\'https://www.instagram.com/ingridraws/\' target=\'blank\'>@ingridraws<\/a> and self-deprecating bread puns <a href=\'https://www.instagram.com/self.loafing/\' target=\'blank\'>@self.loafing<\/a><br><br><a href=\"mailto:me@ingridwu.art\">me@ingridwu.art<\/a><br><br><a href=\'https://www.linkedin.com/in/ingrid-wu-715099107/\' target=\'blank\'>LinkedIn<\/a><br><br><a href=\'https://drive.google.com/file/d/1Dxt3lZ48oUp-vzen2-jIs2T2FMF6G6P5/view?usp=sharing\' target=\'blank\'>Resume<\/a><br><br><br><br><br>',
+        text: '<br><br>Ingrid (she\/hers) is a creative based in NYC with a focus in art direction and brand design, working across tech, CPG brands, and more.<br><br>Open to fulltime/freelance opportunities or sweet and savory food recs. <br><br>  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊<br><br>Creating space for AAPI stories at <a href=\'https://www.instagram.com/sparks_magazine/\' target=\'blank\'>Sparks Magazine<\/a><br><br>Find illustrations and comics\u00A0<a href=\'https://www.instagram.com/ingridraws/\' target=\'blank\'>@ingridraws<\/a> and self-deprecating bread puns <a href=\'https://www.instagram.com/self.loafing/\' target=\'blank\'>@self.loafing<\/a><br><br><a href=\"mailto:me@ingridwu.art\">me@ingridwu.art<\/a><br><br><a href=\'https://www.linkedin.com/in/ingrid-wu-715099107/\' target=\'blank\'>LinkedIn<\/a><br><br><a href=\'https://drive.google.com/file/d/1Dxt3lZ48oUp-vzen2-jIs2T2FMF6G6P5/view?usp=sharing\' target=\'blank\'>Resume<\/a><br><br><br><br><br>',
         inline: 'id=\'about\' style="max-width:1200px;font-size:20px"'
     }
 ]
 
-var play = [
+var art = [
     {
         module: 'title',
-        text: 'OODLES'
+        text: 'ILLUSTRATION'
     },
     {
         module: 'description',
-        text: 'A collection of illustrations.<br>For up-to-date illustrations and animations, follow <a href=\'https://www.instagram.com/ingridraws/\' target=\'blank\'>@ingridraws<\/a> on Instagram!'
+        text: 'For up-to-date illustrations and animations, check out <a href=\'https://www.instagram.com/ingridraws/\' target=\'blank\'>@ingridraws<\/a> on Instagram!'
     },
     {
         module: 'responsivegallery',
@@ -435,7 +435,7 @@ var play = [
     },
     {
         module: 'description',
-        text: 'Inktober is a challenge to ink or draw something every day for the month of October, a challenge I have put myself up to for the last four years. In 2018, I decided to do it a bit differently by creating a series - Chindōgu.<br><br>Chindōgu (珍道具) is the Japanese art form of inventing useless, but ingenious, inventions such an umbrella that doubles as a tie, or have an active toddler wear a onesie that also doubles as a mop.<br><br>For this Inktober, I decided to do my interpretation of my own useless, but mostly useful, inventions.<br><br>Illustration<br>2018'
+        text: 'Chindōgu.<br><br>Chindōgu (珍道具) is the Japanese art form of inventing useless, but ingenious, inventions such an umbrella that doubles as a tie, or have an active toddler wear a onesie that also doubles as a mop.<br><br>I developed my own interpretations of useless, but mostly useful, inventions.<br><br>'
     },
     {
         module: 'responsivegallery',
@@ -712,11 +712,11 @@ var play = [
     },
     {
         module: 'title',
-        text: 'Short Films'
+        text: 'Animated Short Films'
     },
     {
         module: 'description',
-        text: 'A collection of animated short films between 2017-2019.'
+        text: 'A collection of animated short films drawn in Procreate and animated in After Effects'
     },
     {
         module: 'videoembed',
