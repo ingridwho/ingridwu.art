@@ -1397,7 +1397,7 @@ var amazongtm= [
     },
     {
         module: 'description',
-        text: 'During my time as art director for Amazon Ads, I oversaw the development visual identities and deliverables for various go-to-market events. A key part of my role was ensuring Amazon Ads retained its cohesive brand identity across different internal teams and agency/production partners. We explored the different ways the branding guidelines could be templatized, iterated, and innovated.'
+        text: 'During my time as art director for Amazon Ads, I oversaw visual identities and deliverables for various go-to-market events. A key part of my role was ensuring Amazon Ads retained its cohesive brand identity across different internal teams and agency/production partners. In collaboration with my team of designers and agency partners, we explored how the Amazon Ads branding guidelines could be templatized, iterated, and innovated.'
     },
     {
         module: 'title',
@@ -1405,7 +1405,7 @@ var amazongtm= [
     },
     {
         module: 'description',
-        text: 'The Amazon Upfront is an annual, high-profile event where Amazon presents its upcoming entertainment, sports, and streaming content—including Prime Video, Twitch, and Amazon MGM Studios—to advertisers to secure, early, upfront ad-buys. It serves as a major venue for revealing new ad tech innovations, such as AI-powered, interactive, and shoppable ad formats.<br><br>I developed the design identity for the online streaming experience for those not able to attend in person. This included a landing page, social, email, and print collateral.<br><br>There were 10.6K livestreams on the Upfront landing page during the event.'
+        text: 'The Amazon Upfront is an annual, high-profile event where Amazon presents its upcoming entertainment, sports, and streaming content—including Prime Video, Twitch, and Amazon MGM Studios—to advertisers to secure, early, upfront ad-buys. It serves as a major venue for revealing new ad tech innovations, such as AI-powered, interactive, and shoppable ad formats.<br><br>I developed the design identity for the online streaming experience for those not able to attend in person. This included a landing page, social, email, and print collateral.<br><br>More than 10.6K people attended the livestream event via the landing page.'
     },
     {
         module: 'widephoto',
