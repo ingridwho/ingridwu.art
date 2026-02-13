@@ -78,7 +78,7 @@ var work = [
 var art = [
     {
         module: 'title',
-        text: 'ILLUSTRATION'
+        text: 'Illustration'
     },
     {
         module: 'description',
@@ -176,7 +176,7 @@ var art = [
     },
     {
         module: 'title',
-        text: 'CHINDŌGU'
+        text: 'Chindōgu'
     },
     {
         module: 'description',
@@ -474,6 +474,201 @@ var art = [
     {
         module: 'videoembed',
         html: '<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/254958186?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>'
+    },
+    {
+        module: 'back'
+    }
+]
+var photo = [
+    {
+        module: 'title',
+        text: 'Photography'
+    },
+    {
+        module: 'description',
+        text: 'Photos I have taken in my day-to-day and travels. Mostly straight-out-of-camera with some level and saturation shifts.'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: 'Frame 6.jpg',
+                x: '400',
+                y: '225'
+            },
+            {
+                image: 'Frame 7.jpg',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: 'Frame 8.jpg',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: 'Frame 9.jpg',
+                x: '800',
+                y: '450'
+            },
+        ]//,
+        //inline: 'max-width:225px;margin:0 auto'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: 'Frame 10.jpg',
+                x: '400',
+                y: '225'
+            },
+            {
+                image: 'Frame 11.jpg',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: 'Frame 12.jpg',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: 'Frame 12.5.jpg',
+                x: '800',
+                y: '450'
+            },
+        ]//,
+        //inline: 'max-width:225px;margin:0 auto'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: 'Frame 13.jpg',
+                x: '400',
+                y: '225'
+            },
+            {
+                image: 'Frame 14.jpg',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: 'Frame 15.jpg',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: 'Frame 16.jpg',
+                x: '800',
+                y: '450'
+            },
+        ]//,
+        //inline: 'max-width:225px;margin:0 auto'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: 'Frame 17.jpg',
+                x: '400',
+                y: '225'
+            },
+            {
+                image: 'Frame 18.jpg',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: 'Frame 19.jpg',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: 'Frame 20.jpg',
+                x: '800',
+                y: '450'
+            },
+        ]//,
+        //inline: 'max-width:225px;margin:0 auto'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: 'Frame 21.jpg',
+                x: '400',
+                y: '225'
+            },
+            {
+                image: 'Frame 22.jpg',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: 'Frame 23.jpg',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: 'Frame 24.jpg',
+                x: '800',
+                y: '450'
+            },
+        ]//,
+        //inline: 'max-width:225px;margin:0 auto'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: 'Frame 25.jpg',
+                x: '400',
+                y: '225'
+            },
+            {
+                image: 'Frame 26.jpg',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: 'Frame 27.jpg',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: 'Frame 28.jpg',
+                x: '800',
+                y: '450'
+            },
+        ]//,
+        //inline: 'max-width:225px;margin:0 auto'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: 'Frame 29.jpg',
+                x: '400',
+                y: '225'
+            },
+            {
+                image: 'Frame 30.jpg',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: 'Frame 31.jpg',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: 'Frame 32.jpg',
+                x: '800',
+                y: '450'
+            },
+        ]//,
+        //inline: 'max-width:225px;margin:0 auto'
     },
     {
         module: 'back'
