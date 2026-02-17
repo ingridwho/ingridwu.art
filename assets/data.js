@@ -1585,7 +1585,7 @@ var amazonadsphoto= [
     },
     
 ]  
-var amazongtm= [
+var amazonadsevents= [
     {
         module: 'title',
         text: 'Amazon Ads GTM Events'
