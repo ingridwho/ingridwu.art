@@ -492,6 +492,32 @@ var photo = [
         module: 'photogrid',
         filenames: [
             {
+                image: 'Frame 2.jpg',
+                x: '400',
+                y: '225'
+            },
+            {
+                image: 'Frame 3.jpg',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: 'Frame 4.jpg',
+                x: '800',
+                y: '450'
+            },
+            {
+                image: 'Frame 5.jpg',
+                x: '800',
+                y: '450'
+            },
+        ]//,
+        //inline: 'max-width:225px;margin:0 auto'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
                 image: 'Frame 6.jpg',
                 x: '400',
                 y: '225'
@@ -681,7 +707,7 @@ var evolve = [
     },
     {
         module: 'description',
-        text:'The outdoors have a way of bringing out the good stuff. Something as simple as a walk can give us a breath of fresh air and fresh perspective, too. <br><br>For Evolve\u2019s rebrand, we were able to develop social-first content across Instagram and Facebook.<br><br><b><a href=\'https://www.instagram.com/drinkevolve/\' target=\'blank\'>Drink Evolve on Instagram<\/a></b><br><br>Art Direction<br>Copywriter: Shravya Arra & Lauren Jones<br>Content Strategist: Mae Copeland<br>Creative Directors: Kristen Kriisa & Liz Agans<br>Executive Creative Director: Steve Street<br>Photographer: Johan T. Anderson<br><br>'
+        text:'The outdoors have a way of bringing out the good stuff. Something as simple as a walk can give us a breath of fresh air and fresh perspective, too. <br><br>For Evolve\u2019s rebrand, we were able to develop social-first content across Instagram and Facebook.<br><br><b><a href=\'https://www.instagram.com/drinkevolve/\' target=\'blank\'>Drink Evolve on Instagram<\/a></b><br><br>Art Director, Designer, Motion Designer: Ingrid Wu<br>Copywriter: Shravya Arra & Lauren Jones<br>Content Strategist: Mae Copeland<br>Creative Directors: Kristen Kriisa & Liz Agans<br>Executive Creative Director: Steve Street<br>Photographer: Johan T. Anderson<br><br>'
     },
     {
         module: 'title',
@@ -962,7 +988,7 @@ var starbucks = [
     },
     {
         module: 'description',
-        text:'For Earth Month 2021, Starbucks wanted to create space to talk — about where they are today, and where they see themselves in another 50 years. Through this social campaign, Starbucks was able to break open and break down their sustainability practices to show Gen Z fans exactly how much positive impact is being made by doing the hard work for what’s right. <br><br>Art Direction/Graphic\/Motion Design<br>Sr AD\/CW: Connie Zhou & Austin Powe<br>Creative Director: Christine Gratton<br>'
+        text:'For Earth Month 2021, Starbucks wanted to create space to talk — about where they are today, and where they see themselves in another 50 years. Through this social campaign, Starbucks was able to break open and break down their sustainability practices to show Gen Z fans exactly how much positive impact is being made by doing the hard work for what’s right. <br><br>Graphic and Motion Designer: Ingrid Wu<br>Sr AD\/CW: Connie Zhou & Austin Powe<br>Creative Director: Christine Gratton<br>'
     },
     {
         module: 'title',
@@ -1072,7 +1098,7 @@ var robin = [
     },
     {
         module: 'description',
-        text:'With the announcement of Evolve\u2019s new partnership with Peloton\u2019s VP of Fitness Programming, Robin Arzon, we launched the "Shake It Up" social challenge — an influencer-fueled wellness challenge with a twist: try something new for your wellness, that’s totally out of your ordinary – and therefore, pushes you to evolve. We created and produced one :60 intro video, along with  two :15 teasers, and a library of social-first campaign assets.<br><br>The challenge heroed Robin getting outside of her comfort zone by being taught how to paint a mural with designer Jennet Liaw. With the launch of Robin\u2019s video, it kickstarted a chain of a diverse group of influencers taking on a wellness activity they’d never tried before – and passing the challenge along to their followers. <br><br>Art Direction<br>CW: Lauren Jones<br>Content Strategist: Mae Copeland<br>Creative Director: Kristen Kriisa<br>Executive Creative Director: Steve Street<br><br><br>'
+        text:'With the announcement of Evolve\u2019s new partnership with Peloton\u2019s VP of Fitness Programming, Robin Arzon, we launched the "Shake It Up" social challenge — an influencer-fueled wellness challenge with a twist: try something new for your wellness, that’s totally out of your ordinary – and therefore, pushes you to evolve. We created and produced one :60 intro video, along with  two :15 teasers, and a library of social-first campaign assets.<br><br>The challenge heroed Robin getting outside of her comfort zone by being taught how to paint a mural with designer Jennet Liaw. With the launch of Robin\u2019s video, it kickstarted a chain of a diverse group of influencers taking on a wellness activity they’d never tried before – and passing the challenge along to their followers. <br><br>Art Director: Ingrid Wu<br>CW: Lauren Jones<br>Content Strategist: Mae Copeland<br>Creative Director: Kristen Kriisa<br>Executive Creative Director: Steve Street<br><br><br>'
     },
     {
         module: 'photogrid',
@@ -1138,7 +1164,7 @@ var searchon = [
     },
     {
         module: 'description',
-        text:'For Google\u2019s Search On 2022 conference, we were tasked with the paid and organic social assets in promotion of the event. With provided assets from Google\u2019s brand team, we created dozens of assets for Instagram, Reddit, and Twitter.<br><br>Art Direction/Motion<br>Sr AD\/CW: Nic Allstot & Kacy Emmett<br>Sr Designer: Jackie Dempsey<br>Designer: Fiona Schneider<br>Motion Design (Post-Event): Isaiah Edwards'
+        text:'For Google\u2019s Search On 2022 conference, we were tasked with the paid and organic social assets in promotion of the event. With provided assets from Google\u2019s brand team, we created dozens of assets for Instagram, Reddit, and Twitter.<br><br>Art Director: Ingrid Wu<br>Sr AD\/CW: Nic Allstot & Kacy Emmett<br>Sr Designer: Jackie Dempsey<br>Designer: Fiona Schneider<br>Motion Design (Post-Event): Isaiah Edwards'
     },
     {
         module: 'title',
@@ -1240,7 +1266,7 @@ var evolve21 = [
     },
     {
         module: 'description',
-        text:'We helped PepsiCo to launch Evolve, their plant-based ready-to-drink protein shake, that aims to get people outside through a partnership with the National Parks Foundation.<br><br>With There\u2019s Outside in Here, we wanted to convey the delicious flavors of nature, and to bottle up that outdoor feeling. To do so, we created what we called flavorscapes. We worked with The Mill to to create stunning backdrops for each flavor, inspired by the colors, lighting, textures and feeling of an outdoor environment. We also created a new website, social content, and print ads to drive discovery of pea protein, to grow our community of active wellness seekers and to spread the good word of being outside.<br><br>Design & Art Direction<br>ACD: Liz Agans & Kyle Kimball<br>Design Director: Warren Teo<br>Creative Director: Kristen Kriisa<br>Executive Creative Director: Steve Street'
+        text:'We helped PepsiCo to launch Evolve, their plant-based ready-to-drink protein shake, that aims to get people outside through a partnership with the National Parks Foundation.<br><br>With There\u2019s Outside in Here, we wanted to convey the delicious flavors of nature, and to bottle up that outdoor feeling. To do so, we created what we called flavorscapes. We worked with The Mill to to create stunning backdrops for each flavor, inspired by the colors, lighting, textures and feeling of an outdoor environment. We also created a new website, social content, and print ads to drive discovery of pea protein, to grow our community of active wellness seekers and to spread the good word of being outside.<br><br>Art Director and Designer: Ingrid Wu<br>ACD: Liz Agans & Kyle Kimball<br>Design Director: Warren Teo<br>Creative Director: Kristen Kriisa<br>Executive Creative Director: Steve Street'
     },
     {
         module: 'videoembed',
@@ -1281,7 +1307,7 @@ var search = [
     },
     {
         module: 'description',
-        text: 'Our team at Big Spaceship helped launch Google Search\u2019s TikTok and IG Reels presence from 2021-2022. By establishing a tone of voice and a balance of entertainment, trends, and education, we brought it to life through a mix of content creators, collaborators, and animation/graphics. <br><br>Art Direction/Motion<br>CW: Shravya Arra, Lauren Jones<br>Sr AD\/CW: Nic Allstot & Kacy Emmett<br>Sr Designer: Jackie Dempsey<br>Designer: Fiona Schneider<br>Content Creators: Casey Rieger, Shashi Mostafa'
+        text: 'Our team at Big Spaceship helped launch Google Search\u2019s TikTok and IG Reels presence from 2021-2022. By establishing a tone of voice and a balance of entertainment, trends, and education, we brought it to life through a mix of content creators, collaborators, and animation/graphics. <br><br>Art Director, Graphic Designer, Editor, and Motion Designer: Ingrid Wu<br>CW: Shravya Arra, Lauren Jones<br>Sr AD\/CW: Nic Allstot & Kacy Emmett<br>Sr Designer: Jackie Dempsey<br>Designer: Fiona Schneider<br>Content Creators: Casey Rieger, Shashi Mostafa'
     },
     {
         module: 'videoembed',
@@ -1323,11 +1349,53 @@ var paze = [
     },
     {
         module: 'description',
-        text:'A new online checkout service offered by some of America’s largest banks and credit unions. Created by the makers of Zelle.<br><br>Art Direction/Design<br>Sr. Copywriter: Lauren Jones<br><br>CD: Bradford Gilmore<br>GCD: Mike Lee<br>Design Director: Cory Galster<br>Associate Design Director: Cole Spiess<br>TVC Directors: Terri Timely<br>Edit: Cut & Run<br>Photographers: Holly Andres & LM Chabot'
+        text:'A new online checkout service offered by some of America’s largest banks and credit unions. Created by the makers of Zelle.<br><br>Art Director, Brand Designer, and Production Designer: Ingrid Wu<br>Sr. Copywriter: Lauren Jones<br><br>CD: Bradford Gilmore<br>GCD: Mike Lee<br>Design Director: Cory Galster<br>Associate Design Director: Cole Spiess<br>TVC Directors: Terri Timely<br>Edit: Cut & Run<br>Photographers: Holly Andres & LM Chabot'
+    },
+    {
+        module: 'widephoto',
+        filename: 'Paze brand overview.jpg'
+    },
+    {
+        module: 'widephoto',
+        filename: 'photo1.png'
+    },
+    {
+        module: 'widephoto',
+        filename: 'photo2.png'
     },
     {
         module: 'title',
         text: 'Broadcast TVC/OLV'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: 'gif1.gif',
+                x: '16',
+                y: '9'
+            },
+            {
+                image: 'gif2.gif',
+                x: '16',
+                y: '9'
+            },
+        ],
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: 'gif3.gif',
+                x: '16',
+                y: '9'
+            },
+            {
+                image: 'gif4.gif',
+                x: '16',
+                y: '9'
+            }
+        ],
     },
     {
         module: 'videoembed',
@@ -1354,6 +1422,31 @@ var paze = [
         text: 'Paid Social Videos'
     },
     {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: 'gif5.gif',
+                x: '9',
+                y: '16'
+            },
+            {
+                image: 'gif7.gif',
+                x: '9',
+                y: '16'
+            },
+            {
+                image: 'gif6.gif',
+                x: '9',
+                y: '16'
+            },
+            {
+                image: 'gif8.gif',
+                x: '9',
+                y: '16'
+            }
+        ],
+    },
+    {
         module: 'videoembed',
         html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/W1gWQC6bFcE?si=2ykVUToOwqJ5EAmt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
     },
@@ -1361,18 +1454,7 @@ var paze = [
         module: 'videoembed',
         html: ''
     },
-    {
-        module: 'title',
-        text: 'Brand Design & Photography'
-    },
-    {
-        module: 'widephoto',
-        filename: 'photo1.png'
-    },
-    {
-        module: 'widephoto',
-        filename: 'photo2.png'
-    },
+  
     {
         module: 'back'
     }
@@ -1384,7 +1466,7 @@ var pazesocial = [
     },
     {
         module: 'description',
-        text:'The launch of Paze as a new online checkout presented an opportunity for paid and organic social media growth. We developed the brand\u2019s first social media playbook to define a distinct look and feel, including leveraging current trends and culture in an ownable way.<br><br> Check out <a href=\'https://www.instagram.com/pazecheckout/\' target=\'blank\'>Paze on Instagram<\/a> for more.<br><br>Art Direction/Design/Motion Graphics/Editing<br>Sr. Copywriter: Lauren Jones<br><br>CD: Bradford Gilmore<br>GCD: Mike Lee<br>Design Director: Cory Galster<br>Associate Design Director: Cole Spiess<br>Motion Design assistance: Matt Price & Isaiah Edwards<br>Photographers: Holly Andres & LM Chabot<br><br>'
+        text:'The launch of Paze as a new online checkout presented an opportunity for paid and organic social media growth. We developed the brand\u2019s first social media playbook to define a distinct look and feel, including leveraging current trends and culture in an ownable way.<br><br> Check out <a href=\'https://www.instagram.com/pazecheckout/\' target=\'blank\'>Paze on Instagram<\/a> for more.<br><br>Art Director, Brand Designer, Motion Designer, and Editor: Ingrid Wu<br>Sr. Copywriter: Lauren Jones<br><br>CD: Bradford Gilmore<br>GCD: Mike Lee<br>Design Director: Cory Galster<br>Associate Design Director: Cole Spiess<br>Motion Design assistance: Matt Price & Isaiah Edwards<br>Photographers: Holly Andres & LM Chabot<br><br>'
     },
     {
         module: 'photogrid',
@@ -1730,7 +1812,7 @@ var calibold = [
     },
     {
         module: 'description',
-        text: 'To promote PUMA\'s Cali Bold sneaker launch, We Are Social led the production of a mural in Williamsburg, Brooklyn, illustrated by Brittany Byrd, to remind women to #BeBold. A story of the process and end product was created for the @PUMAWomens Instagram account.<br><br>Art Direction/Graphic/Motion Design<br>Senior Art Director: Vu Tran'
+        text: 'To promote PUMA\'s Cali Bold sneaker launch, We Are Social led the production of a mural in Williamsburg, Brooklyn, illustrated by Brittany Byrd, to remind women to #BeBold. A story of the process and end product was created for the @PUMAWomens Instagram account.<br><br>Art Director, Graphic and Motion Designer: Ingrid Wu<br>Senior Art Director: Vu Tran'
     },
     {
         module: 'widephoto',
@@ -1755,7 +1837,7 @@ var modernlove = [
     },
     {
         module: 'description',
-        text: 'The New York Times’ Modern Love column chronicles the difficulties of love, loss and redemption. Today, a swipe can make or break a connection— but, somehow, many of the characteristics that define modern romance remain universal.<br><br>Art Direction<br>Copywriter: <a href =\'https://www.linkedin.com/in/denise-akerman/\' target=\'blank\'>Denise Akerman</a>'
+        text: 'The New York Times’ Modern Love column chronicles the difficulties of love, loss and redemption. Today, a swipe can make or break a connection— but, somehow, many of the characteristics that define modern romance remain universal.<br><br>Art Director and Designer: Ingrid Wu<br>Copywriter: <a href =\'https://www.linkedin.com/in/denise-akerman/\' target=\'blank\'>Denise Akerman</a>'
     },
     {
         module: 'title',
