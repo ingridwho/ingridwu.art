@@ -1352,22 +1352,6 @@ var paze = [
         text:'A new online checkout service offered by some of America’s largest banks and credit unions. Created by the makers of Zelle.<br><br>Art Director, Brand Designer, and Production Designer: Ingrid Wu<br>Sr. Copywriter: Lauren Jones<br><br>CD: Bradford Gilmore<br>GCD: Mike Lee<br>Design Director: Cory Galster<br>Associate Design Director: Cole Spiess<br>TVC Directors: Terri Timely<br>Edit: Cut & Run<br>Photographers: Holly Andres & LM Chabot'
     },
     {
-        module: 'widephoto',
-        filename: 'Paze brand overview.jpg'
-    },
-    {
-        module: 'widephoto',
-        filename: 'photo1.png'
-    },
-    {
-        module: 'widephoto',
-        filename: 'photo2.png'
-    },
-    {
-        module: 'title',
-        text: 'Broadcast TVC/OLV'
-    },
-    {
         module: 'photogrid',
         filenames: [
             {
@@ -1454,7 +1438,22 @@ var paze = [
         module: 'videoembed',
         html: ''
     },
-  
+    {
+        module: 'title',
+        text: 'Brand Design & Photo Direction'
+    },
+    {
+        module: 'widephoto',
+        filename: 'Paze brand overview.jpg'
+    },
+    {
+        module: 'widephoto',
+        filename: 'photo1.png'
+    },
+    {
+        module: 'widephoto',
+        filename: 'photo2.png'
+    },
     {
         module: 'back'
     }
