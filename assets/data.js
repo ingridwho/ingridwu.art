@@ -1404,6 +1404,10 @@ var paze = [
         text:'A new online checkout service offered by some of America’s largest banks and credit unions. Created by the makers of Zelle.<br><br>Art Director, Brand Designer, and Production Designer: Ingrid Wu<br>Sr. Copywriter: Lauren Jones<br><br>CD: Bradford Gilmore<br>GCD: Mike Lee<br>Design Director: Cory Galster<br>Associate Design Director: Cole Spiess<br>TVC Directors: Terri Timely<br>Edit: Cut & Run<br>Photographers: Holly Andres & LM Chabot'
     },
     {
+        module: 'title',
+        text: 'Brand Strategy'
+    },
+    {
         module: 'widephoto',
         filename: '1.jpg'
     },
@@ -1423,6 +1427,30 @@ var paze = [
         ],
     },
     {
+        module: 'title',
+        text: 'Establishing a digital-first product through a visual-first identity'
+    },
+    {
+        module: 'widephoto',
+        filename: '10.jpg'
+    },
+    {
+        module: 'widephoto',
+        filename: '7.jpg'
+    },
+    {
+        module: 'title',
+        text: ''
+    },
+    {
+        module: 'title',
+        text: ''
+    },
+    {
+        module: 'title',
+        text: ''
+    },
+    {
         module: 'widephoto',
         filename: '3.jpg'
     },
@@ -1432,11 +1460,11 @@ var paze = [
     },
     {
         module: 'widephoto',
-        filename: '4.jpg'
+        filename: '6.jpg'
     },
     {
         module: 'title',
-        text: 'Infusing fun into trust and convenience'
+        text: 'TVC/OLV: Infusing fun into trust and convenience'
     },
     {
         module: 'photogrid',
@@ -1490,7 +1518,7 @@ var paze = [
     },
     {
         module: 'title',
-        text: 'Relatable and playful checkout stories'
+        text: 'Paid Social: Relatable and playful checkout stories'
     },
     {
         module: 'photogrid',
@@ -1527,19 +1555,7 @@ var paze = [
     },
     {
         module: 'title',
-        text: 'Brand Design & Photo Direction'
-    },
-    {
-        module: 'widephoto',
-        filename: 'Paze brand overview.jpg'
-    },
-    {
-        module: 'widephoto',
-        filename: '6.jpg'
-    },
-    {
-        module: 'widephoto',
-        filename: '7.jpg'
+        text: 'Results'
     },
     {
         module: 'widephoto',
