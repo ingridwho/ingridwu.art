@@ -1197,13 +1197,50 @@ var robin = [
             }
         ]
     },
+
+    {
+        module: 'widephoto',
+        filename: 'gif3.gif'
+    },
     {
         module: 'videoembed',
         html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/I7905OJXkE4?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
     },
     {
+        module: 'title',
+        text: 'Feedback'
+    },
+    {
+        module: 'widephoto',
+        filename: 'feedback.jpg'
+    },
+    {
+        module: 'title',
+        text: 'Creator Partnerships'
+    },
+    {
+        module: 'widephoto',
+        filename: 'gif1.gif'
+    },
+    {
         module: 'videoembed',
         html: '<div class = "video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/BC0_HfO-bXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    },
+    {
+        module: 'title',
+        text: 'Activation: Activity Inspiration Hypeline'
+    },
+    {
+        module: 'widephoto',
+        filename: 'gif2.gif'
+    },
+    {
+        module: 'title',
+        text: 'Results'
+    },
+    {
+        module: 'widephoto',
+        filename: 'results.jpg'
     },
     {
         module: 'back'
