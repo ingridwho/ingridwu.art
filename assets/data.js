@@ -992,6 +992,58 @@ var starbucks = [
     },
     {
         module: 'title',
+        text: 'Visual Identity'
+    },
+    {
+        module: 'widephoto',
+        filename: 'identity.jpg'
+    },
+    {
+        module: 'title',
+        text: 'Credibility and care through motion'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: 'gif1.gif',
+                x: '16',
+                y: '9'
+            },
+            {
+                image: 'gif2.gif',
+                x: '16',
+                y: '9'
+            },
+            {
+                image: 'gif3.gif',
+                x: '16',
+                y: '9'
+            }
+        ],
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: 'gif4.gif',
+                x: '16',
+                y: '9'
+            },
+            {
+                image: 'gif5.gif',
+                x: '16',
+                y: '9'
+            },
+            {
+                image: 'gif6.gif',
+                x: '16',
+                y: '9'
+            }
+        ],
+    },
+    {
+        module: 'title',
         text: 'OLV'
     },
     {
@@ -1073,19 +1125,19 @@ var starbucks = [
     },
     {
         module: 'title',
-        text: 'TikTok - Q&A with Chief Sustainability Officer Michael Kobori'
-    },
-    {
-        module: 'videoembed',
-        html: '<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@starbucks/video/6953993997333351686" data-video-id="6953993997333351686" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@starbucks" href="https://www.tiktok.com/@starbucks">@starbucks</a> <p>You asked us about sustainability, our Chief Sustainability Officer, Michael Kobori, responds to your questions. ♻️ <a title="starbucks" target="_blank" href="https://www.tiktok.com/tag/starbucks">##Starbucks</a> <a title="sustainability" target="_blank" href="https://www.tiktok.com/tag/sustainability">##Sustainability</a></p> <a target="_blank" title="♬ original sound - Starbucks" href="https://www.tiktok.com/music/original-sound-6953993895957007110">♬ original sound - Starbucks</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>'
-    },
-    {
-        module: 'title',
         text: 'TikTok - Resusable Cup Program'
     },
     {
         module: 'videoembed',
         html: '<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@starbucks/video/6950271257652776197" data-video-id="6950271257652776197" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@starbucks" href="https://www.tiktok.com/@starbucks">@starbucks</a> <p>Psst, we’re testing a new idea to reduce cup waste 👀<a title="starbucks" target="_blank" href="https://www.tiktok.com/tag/starbucks">##Starbucks</a> <a title="sustainability" target="_blank" href="https://www.tiktok.com/tag/sustainability">##Sustainability</a></p> <a target="_blank" title="♬ original sound - Starbucks" href="https://www.tiktok.com/music/original-sound-6950286009154620165">♬ original sound - Starbucks</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>'
+    },
+    {
+        module: 'title',
+        text: 'Results'
+    },
+    {
+        module: 'widephoto',
+        filename: 'results.jpg'
     },
     {
         module: 'back'
@@ -1352,6 +1404,41 @@ var paze = [
         text:'A new online checkout service offered by some of America’s largest banks and credit unions. Created by the makers of Zelle.<br><br>Art Director, Brand Designer, and Production Designer: Ingrid Wu<br>Sr. Copywriter: Lauren Jones<br><br>CD: Bradford Gilmore<br>GCD: Mike Lee<br>Design Director: Cory Galster<br>Associate Design Director: Cole Spiess<br>TVC Directors: Terri Timely<br>Edit: Cut & Run<br>Photographers: Holly Andres & LM Chabot'
     },
     {
+        module: 'widephoto',
+        filename: '1.jpg'
+    },
+    {
+        module: 'photogrid',
+        filenames: [
+            {
+                image: '2.jpg',
+                x: '1',
+                y: '1'
+            },
+            {
+                image: 'cover.gif',
+                x: '1',
+                y: '1'
+            },
+        ],
+    },
+    {
+        module: 'widephoto',
+        filename: '3.jpg'
+    },
+    {
+        module: 'title',
+        text: ''
+    },
+    {
+        module: 'widephoto',
+        filename: '4.jpg'
+    },
+    {
+        module: 'title',
+        text: 'Infusing fun into trust and convenience'
+    },
+    {
         module: 'photogrid',
         filenames: [
             {
@@ -1403,7 +1490,7 @@ var paze = [
     },
     {
         module: 'title',
-        text: 'Paid Social Videos'
+        text: 'Relatable and playful checkout stories'
     },
     {
         module: 'photogrid',
@@ -1448,11 +1535,19 @@ var paze = [
     },
     {
         module: 'widephoto',
-        filename: 'photo1.png'
+        filename: '6.jpg'
     },
     {
         module: 'widephoto',
-        filename: 'photo2.png'
+        filename: '7.jpg'
+    },
+    {
+        module: 'widephoto',
+        filename: '8.jpg'
+    },
+    {
+        module: 'widephoto',
+        filename: '9.jpg'
     },
     {
         module: 'back'
