@@ -1579,6 +1579,11 @@ var paze = [
                 image: 'gif8.gif',
                 x: '9',
                 y: '16'
+            },
+            {
+                image: 'dark.gif',
+                x: '9',
+                y: '16'
             }
         ],
     },
