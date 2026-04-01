@@ -1794,6 +1794,14 @@ var amazonadsphoto= [
         filename: '1.png'
     },
     {
+        module: 'title',
+        text: 'Seamless evolution into an existing library'
+    },
+    {
+        module: 'widephoto',
+        filename: 'before.jpg'
+    },
+    {
         module: 'widephoto',
         filename: '2.png'
     },
